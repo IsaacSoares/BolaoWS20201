@@ -16,7 +16,7 @@ import br.edu.uniateneu.bolao.repository.RodadaRepository;
 import br.edu.uniateneu.bolao.repository.TimeRepository;
 
 public class DbUtil {
-	@Autowired
+/*	@Autowired
 	private static TimeRepository timeDAO;
 	@Autowired
 	private static JogadorRepository jogadorDAO;
@@ -57,7 +57,7 @@ public class DbUtil {
 
 	public static void preencheEntidadaes() {
 
-		/** LISTA DE ELENCOS **/
+	
 		List<JogadorEntity> elencoCAP = new ArrayList<JogadorEntity>();
 		List<JogadorEntity> elencoCAM = new ArrayList<JogadorEntity>();
 		List<JogadorEntity> elencoAVA = new ArrayList<JogadorEntity>();
@@ -79,7 +79,6 @@ public class DbUtil {
 		List<JogadorEntity> elencoSAO = new ArrayList<JogadorEntity>();
 		List<JogadorEntity> elencoVAS = new ArrayList<JogadorEntity>();
 
-		/** CLUBES **/
 		TimeEntity athleticoPR = new TimeEntity();
 		athleticoPR.setNome("Athletico PR");
 		athleticoPR.setEscudo("../../assets/icon/Athletico_Paranaense.svg");
@@ -266,5 +265,5 @@ public class DbUtil {
 
 		DbUtil.preencheEntidadaes();
 	}
-
+*/
 }
