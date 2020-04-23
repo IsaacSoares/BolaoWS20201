@@ -1,6 +1,7 @@
 package br.edu.uniateneu.bolao.model;
 
 import java.util.Date;
+import java.util.List;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
@@ -9,8 +10,11 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
+import javax.persistence.ManyToMany;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
+
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 @Entity
 @Table(name = "tb_partida") 
@@ -35,6 +39,22 @@ private TimeEntity visitante;
 @OneToOne(cascade=CascadeType.ALL)
 @JoinColumn(name="cd_mandante")
 private TimeEntity mandante;
+
+@ManyToMany(mappedBy="titularesMandante",cascade = CascadeType.ALL)
+@JsonManagedReference
+private List<JogadorEntity>titularesMandante;
+
+@ManyToMany(mappedBy="reservasMandante",cascade = CascadeType.ALL)
+@JsonManagedReference
+private List<JogadorEntity>reservasMandante;
+
+@ManyToMany(mappedBy="titularesVisitante",cascade = CascadeType.ALL)
+@JsonManagedReference
+private List<JogadorEntity>titularesVisitante;
+
+@ManyToMany(mappedBy="reservasVisitante",cascade = CascadeType.ALL)
+@JsonManagedReference
+private List<JogadorEntity>reservasVisitante;
 
 public long getId() {
 	return id;
