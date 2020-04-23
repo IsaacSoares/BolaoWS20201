@@ -71,6 +71,7 @@ public class Json2Java {
 
 			Atletas atletas;// = new ArrayList<Jogador>(); 
 			atletas = gson.fromJson(jsonTxt, Atletas.class); 
+			
 			/*for (Object object : atletas.getAtletas()) {
 			Jogador jogador = (Jogador) object;
 			//if (jogador.getApelido().equals("Yago Pikachu"))
