@@ -17,14 +17,14 @@ public class CartaoEntity {
 @Id
 @Column(name="cd_cartao")
 @GeneratedValue(strategy = GenerationType.AUTO)
-private long id;
+private Long id;
 
 @OneToOne(cascade = CascadeType.ALL)
 @JoinColumn(name = "cd_jogador")
 private JogadorEntity jogador;
 
 @Column(name = "qt_minutos")
-private int minutos;
+private Integer minutos;
 
 @Column(name = "tp_cartao")
 private String tipo;
@@ -34,11 +34,11 @@ private String tipo;
 private PartidaEntity partida;
 
 
-public long getId() {
+public Long getId() {
 	return id;
 }
 
-public void setId(long id) {
+public void setId(Long id) {
 	this.id = id;
 }
 
@@ -50,11 +50,11 @@ public void setJogador(JogadorEntity jogador) {
 	this.jogador = jogador;
 }
 
-public int getMinutos() {
+public Integer getMinutos() {
 	return minutos;
 }
 
-public void setMinutos(int minutos) {
+public void setMinutos(Integer minutos) {
 	this.minutos = minutos;
 }
 

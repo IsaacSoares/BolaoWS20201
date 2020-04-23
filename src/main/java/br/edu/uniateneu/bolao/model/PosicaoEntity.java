@@ -13,17 +13,17 @@ public class PosicaoEntity {
 	@Column(name = "cd_posicao")
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
-	private int id;
+	private Long id;
 	@Column(name = "nm_posicao")
 	private String nome;
 	@Column(name = "nm_abreviacao")
 	private String abreviacao;
 
-	public int getId() {
+	public Long getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
