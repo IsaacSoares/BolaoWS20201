@@ -1,4 +1,6 @@
 {  
+   "atletas":[  
+{  
    "1":{  
       "id":1,
       "nome":"Outros",
@@ -712,4 +714,6 @@
       },
       "nome_fantasia":"Brasiliense"
    }
+}
+]
 }

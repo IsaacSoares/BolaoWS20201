@@ -7,6 +7,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import br.edu.uniateneu.bolao.cartola.Time;
+
 @Entity
 @Table(name="tb_time")
 public class TimeEntity {
