@@ -141,35 +141,35 @@
          "capacidade":42372
       },
       {
-         "nome":"",
+         "nome":" Estádio Serra Dourada",
          "nome_popular":"Serra Dourada",
          "local":"Goiânia",
          "uf":"GO",
          "capacidade":42000
       },
       {
-         "nome":"",
+         "nome":"Estádio Major Antônio Couto Pereira",
          "nome_popular":"Couto Pereira",
          "local":"Curitiba",
          "uf":"PR",
          "capacidade":40502
       },
       {
-         "nome":"",
+         "nome":"Estádio Governador João Castelo",
          "nome_popular":"Castelão",
          "local":"São Luís",
          "uf":"MA",
          "capacidade":40149
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Paulo Machado de Carvalho",
          "nome_popular":"Pacaembu",
          "local":"São Paulo",
          "uf":"SP",
          "capacidade":37730
       },
       {
-         "nome":"",
+         "nome":"Estádio Manoel Barradas",
          "nome_popular":"Barradão",
          "local":"Salvador",
          "uf":"BA",
@@ -883,7 +883,7 @@
          "capacidade":11780
       },
       {
-         "nome":"Estádio Lomanto Júnior",
+         "nome":"",
          "nome_popular":"Lomantão",
          "local":"Vitória da Conquista",
          "uf":"BA",
