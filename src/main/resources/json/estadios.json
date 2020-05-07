@@ -141,7 +141,7 @@
          "capacidade":42372
       },
       {
-         "nome":" Estádio Serra Dourada",
+         "nome":"Estádio Serra Dourada",
          "nome_popular":"Serra Dourada",
          "local":"Goiânia",
          "uf":"GO",
@@ -421,28 +421,28 @@
          "capacidade":18560
       },
       {
-         "nome":"",
+         "nome":"Estádio Doutor Francisco de Palma Travassos",
          "nome_popular":"Palma Travassos",
          "local":"Ribeirão Preto",
          "uf":"SP",
          "capacidade":18277
       },
       {
-         "nome":"",
+         "nome":"Estádio General Sylvio Raulino de Oliveira",
          "nome_popular":"Raulino de Oliveira",
          "local":"Volta Redonda",
          "uf":"RJ",
          "capacidade":18230
       },
       {
-         "nome":"",
+         "nome":"Estádio Barão de Serra Negra",
          "nome_popular":"Barão de Serra Negra",
          "local":"Piracicaba",
          "uf":"SP",
          "capacidade":18000
       },
       {
-         "nome":"",
+         "nome":"Estádio Major José Levy Sobrinho",
          "nome_popular":"Major Levy Sobrinho",
          "local":"Limeira",
          "uf":"SP",
@@ -456,7 +456,7 @@
          "capacidade":18000
       },
       {
-         "nome":"",
+         "nome":"Estádio Ítalo Del Cima",
          "nome_popular":"Luthero Lopes",
          "local":"Rondonópolis",
          "uf":"MT",
