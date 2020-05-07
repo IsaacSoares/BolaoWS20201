@@ -24,7 +24,7 @@ import br.edu.uniateneu.bolao.repository.PosicaoRepository;
 @RequestMapping("/jogadores")
 public class JogadorService {
 
-	private static final String PATH_JSON = null;
+	private static final String PATH_JSON = "C:\\Ateneu\\2020.1\\webservice\\workspace\\bolaows20201\\src\\main\\resources\\json\\";
 	@Autowired
 	private JogadorRepository jogadorRepository;
 	@Autowired

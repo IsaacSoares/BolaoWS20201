@@ -41,10 +41,11 @@ public class Time {
 		this.escudos = escudos;
 	}
 
-	public TimeEntity converteTime2TimeEntity() {
+	public TimeEntity converteTimeParaEntidade() {
 		TimeEntity timeEntity = new TimeEntity();
 		timeEntity.setNome(this.nome);
 		timeEntity.setSigla(this.abreviacao);
+		timeEntity.setEscudo(this.escudos.get(0));
 		//timeEntity.setEstadio(this);
 		return timeEntity;
 	}

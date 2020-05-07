@@ -1,7 +1,5 @@
-{  
-   "atletas":[  
-{  
-   "1":{  
+{  "clubes":[
+   {  
       "id":1,
       "nome":"Outros",
       "abreviacao":"OUT",
@@ -12,7 +10,7 @@
       },
       "nome_fantasia":"Outros"
    },
-   "1349":{  
+   {  
       "id":1349,
       "nome":"Ipatinga",
       "abreviacao":"IPA",
@@ -23,7 +21,7 @@
       },
       "nome_fantasia":"Ipatinga"
    },
-   "1371":{  
+   {  
       "id":1371,
       "nome":"Cuiabá",
       "abreviacao":"CUI",
@@ -34,7 +32,7 @@
       },
       "nome_fantasia":"Cuiabá"
    },
-   "1390":{  
+   {  
       "id":1390,
       "nome":"Icasa",
       "abreviacao":"ICA",
@@ -45,7 +43,7 @@
       },
       "nome_fantasia":"Icasa"
    },
-   "2190":{  
+   {  
       "id":2190,
       "nome":"Oeste",
       "abreviacao":"OES",
@@ -56,7 +54,7 @@
       },
       "nome_fantasia":"Oeste"
    },
-   "2193":{  
+   {  
       "id":2193,
       "nome":"Duque de Caxias",
       "abreviacao":"DUQ",
@@ -67,7 +65,7 @@
       },
       "nome_fantasia":"Duque de Caxias"
    },
-   "2197":{  
+   {  
       "id":2197,
       "nome":"Americana",
       "abreviacao":"AME",
@@ -78,7 +76,7 @@
       },
       "nome_fantasia":"Americana"
    },
-   "2554":{  
+   {  
       "id":2554,
       "nome":"Grêmio Prudente",
       "abreviacao":"PRU",
@@ -89,7 +87,7 @@
       },
       "nome_fantasia":"Grêmio Prudente"
    },
-   "2565":{  
+   {  
       "id":2565,
       "nome":"Luverdense",
       "abreviacao":"LUV",
@@ -100,7 +98,7 @@
       },
       "nome_fantasia":"Luverdense"
    },
-   "262":{  
+   {  
       "id":262,
       "nome":"Flamengo",
       "abreviacao":"FLA",
@@ -112,7 +110,7 @@
       },
       "nome_fantasia":"Flamengo"
    },
-   "263":{  
+   {  
       "id":263,
       "nome":"Botafogo",
       "abreviacao":"BOT",
@@ -124,7 +122,7 @@
       },
       "nome_fantasia":"Botafogo"
    },
-   "264":{  
+   {  
       "id":264,
       "nome":"Corinthians",
       "abreviacao":"COR",
@@ -136,7 +134,7 @@
       },
       "nome_fantasia":"Corinthians"
    },
-   "265":{  
+   {  
       "id":265,
       "nome":"Bahia",
       "abreviacao":"BAH",
@@ -148,7 +146,7 @@
       },
       "nome_fantasia":"Bahia"
    },
-   "266":{  
+   {  
       "id":266,
       "nome":"Fluminense",
       "abreviacao":"FLU",
@@ -160,7 +158,7 @@
       },
       "nome_fantasia":"Fluminense"
    },
-   "267":{  
+   {  
       "id":267,
       "nome":"Vasco",
       "abreviacao":"VAS",
@@ -172,7 +170,7 @@
       },
       "nome_fantasia":"Vasco"
    },
-   "275":{  
+   {  
       "id":275,
       "nome":"Palmeiras",
       "abreviacao":"PAL",
@@ -184,7 +182,7 @@
       },
       "nome_fantasia":"Palmeiras"
    },
-   "276":{  
+   {  
       "id":276,
       "nome":"São Paulo",
       "abreviacao":"SAO",
@@ -196,7 +194,7 @@
       },
       "nome_fantasia":"São Paulo"
    },
-   "277":{  
+   {  
       "id":277,
       "nome":"Santos",
       "abreviacao":"SAN",
@@ -208,7 +206,7 @@
       },
       "nome_fantasia":"Santos"
    },
-   "278":{  
+   {  
       "id":278,
       "nome":"Portuguesa",
       "abreviacao":"POR",
@@ -219,7 +217,7 @@
       },
       "nome_fantasia":"Portuguesa"
    },
-   "279":{  
+   {  
       "id":279,
       "nome":"Guarani",
       "abreviacao":"GUA",
@@ -230,7 +228,7 @@
       },
       "nome_fantasia":"Guarani"
    },
-   "280":{  
+   {  
       "id":280,
       "nome":"Bragantino",
       "abreviacao":"BRA",
@@ -241,7 +239,7 @@
       },
       "nome_fantasia":"Bragantino"
    },
-   "282":{  
+   {  
       "id":282,
       "nome":"Atlético-MG",
       "abreviacao":"ATL",
@@ -253,7 +251,7 @@
       },
       "nome_fantasia":"Atlético-MG"
    },
-   "283":{  
+   {  
       "id":283,
       "nome":"Cruzeiro",
       "abreviacao":"CRU",
@@ -265,7 +263,7 @@
       },
       "nome_fantasia":"Cruzeiro"
    },
-   "284":{  
+   {  
       "id":284,
       "nome":"Grêmio",
       "abreviacao":"GRE",
@@ -277,7 +275,7 @@
       },
       "nome_fantasia":"Grêmio"
    },
-   "285":{  
+   {  
       "id":285,
       "nome":"Internacional",
       "abreviacao":"INT",
@@ -289,7 +287,7 @@
       },
       "nome_fantasia":"Internacional"
    },
-   "286":{  
+   {  
       "id":286,
       "nome":"Juventude",
       "abreviacao":"JUV",
@@ -300,7 +298,7 @@
       },
       "nome_fantasia":"Juventude"
    },
-   "287":{  
+   {  
       "id":287,
       "nome":"Vitória",
       "abreviacao":"VIT",
@@ -311,7 +309,7 @@
       },
       "nome_fantasia":"Vitória"
    },
-   "288":{  
+   {  
       "id":288,
       "nome":"Criciúma",
       "abreviacao":"CRI",
@@ -322,7 +320,7 @@
       },
       "nome_fantasia":"Criciúma"
    },
-   "289":{  
+   {  
       "id":289,
       "nome":"Paraná",
       "abreviacao":"PAR",
@@ -333,7 +331,7 @@
       },
       "nome_fantasia":"Paraná"
    },
-   "290":{  
+   {  
       "id":290,
       "nome":"Goiás",
       "abreviacao":"GOI",
@@ -345,7 +343,7 @@
       },
       "nome_fantasia":"Goiás"
    },
-   "291":{  
+   {  
       "id":291,
       "nome":"Paysandu",
       "abreviacao":"PAY",
@@ -356,7 +354,7 @@
       },
       "nome_fantasia":"Paysandu"
    },
-   "292":{  
+   {  
       "id":292,
       "nome":"Sport",
       "abreviacao":"SPO",
@@ -367,7 +365,7 @@
       },
       "nome_fantasia":"Sport"
    },
-   "293":{  
+   {  
       "id":293,
       "nome":"Athlético-PR",
       "abreviacao":"ATL",
@@ -379,7 +377,7 @@
       },
       "nome_fantasia":"Athlético-PR"
    },
-   "294":{  
+   {  
       "id":294,
       "nome":"Coritiba",
       "abreviacao":"COR",
@@ -390,7 +388,7 @@
       },
       "nome_fantasia":"Coritiba"
    },
-   "296":{  
+   {  
       "id":296,
       "nome":"Botafogo-SP",
       "abreviacao":"BOT",
@@ -401,7 +399,7 @@
       },
       "nome_fantasia":"Botafogo-SP"
    },
-   "303":{  
+   {  
       "id":303,
       "nome":"Ponte Preta",
       "abreviacao":"PON",
@@ -412,7 +410,7 @@
       },
       "nome_fantasia":"Ponte Preta"
    },
-   "3057":{  
+   {  
       "id":3057,
       "nome":"Boa Esporte",
       "abreviacao":"BEC",
@@ -423,7 +421,7 @@
       },
       "nome_fantasia":"Boa Esporte"
    },
-   "306":{  
+   {  
       "id":306,
       "nome":"Santo André",
       "abreviacao":"SAN",
@@ -434,7 +432,7 @@
       },
       "nome_fantasia":"Santo André"
    },
-   "307":{  
+   {  
       "id":307,
       "nome":"São Bento",
       "abreviacao":"SBE",
@@ -445,7 +443,7 @@
       },
       "nome_fantasia":"São Bento"
    },
-   "309":{  
+   {  
       "id":309,
       "nome":"Brasil de Pelotas",
       "abreviacao":"BRA",
@@ -456,7 +454,7 @@
       },
       "nome_fantasia":"Brasil de Pelotas"
    },
-   "314":{  
+   {  
       "id":314,
       "nome":"Avaí",
       "abreviacao":"AVA",
@@ -468,7 +466,7 @@
       },
       "nome_fantasia":"Avaí"
    },
-   "315":{  
+   {  
       "id":315,
       "nome":"Chapecoense",
       "abreviacao":"CHA",
@@ -480,7 +478,7 @@
       },
       "nome_fantasia":"Chapecoense"
    },
-   "316":{  
+   {  
       "id":316,
       "nome":"Figueirense",
       "abreviacao":"FIG",
@@ -491,7 +489,7 @@
       },
       "nome_fantasia":"Figueirense"
    },
-   "317":{  
+   {  
       "id":317,
       "nome":"Joinville",
       "abreviacao":"JEC",
@@ -502,7 +500,7 @@
       },
       "nome_fantasia":"Joinville"
    },
-   "319":{  
+   {  
       "id":319,
       "nome":"Londrina",
       "abreviacao":"LON",
@@ -513,7 +511,7 @@
       },
       "nome_fantasia":"Londrina"
    },
-   "321":{  
+   {  
       "id":321,
       "nome":"Operário-PR",
       "abreviacao":"OPE",
@@ -524,7 +522,7 @@
       },
       "nome_fantasia":"Operário-PR"
    },
-   "327":{  
+   {  
       "id":327,
       "nome":"América-MG",
       "abreviacao":"AME",
@@ -535,7 +533,7 @@
       },
       "nome_fantasia":"América-MG"
    },
-   "340":{  
+   {  
       "id":340,
       "nome":"CRB",
       "abreviacao":"CRB",
@@ -546,7 +544,7 @@
       },
       "nome_fantasia":"CRB"
    },
-   "341":{  
+   {  
       "id":341,
       "nome":"CSA",
       "abreviacao":"CSA",
@@ -558,7 +556,7 @@
       },
       "nome_fantasia":"CSA"
    },
-   "342":{  
+   {  
       "id":342,
       "nome":"ASA Arapiraca",
       "abreviacao":"ASA",
@@ -569,7 +567,7 @@
       },
       "nome_fantasia":"ASA Arapiraca"
    },
-   "343":{  
+   {  
       "id":343,
       "nome":"Náutico",
       "abreviacao":"NAU",
@@ -580,7 +578,7 @@
       },
       "nome_fantasia":"Náutico"
    },
-   "344":{  
+   {  
       "id":344,
       "nome":"Santa Cruz",
       "abreviacao":"STC",
@@ -591,7 +589,7 @@
       },
       "nome_fantasia":"Santa Cruz"
    },
-   "350":{  
+   {  
       "id":350,
       "nome":"ABC",
       "abreviacao":"ABC",
@@ -602,7 +600,7 @@
       },
       "nome_fantasia":"ABC"
    },
-   "351":{  
+   {  
       "id":351,
       "nome":"América-RN",
       "abreviacao":"AME",
@@ -613,7 +611,7 @@
       },
       "nome_fantasia":"América-RN"
    },
-   "354":{  
+   {  
       "id":354,
       "nome":"Ceará",
       "abreviacao":"CEA",
@@ -625,7 +623,7 @@
       },
       "nome_fantasia":"Ceará"
    },
-   "356":{  
+   {  
       "id":356,
       "nome":"Fortaleza",
       "abreviacao":"FOR",
@@ -637,7 +635,7 @@
       },
       "nome_fantasia":"Fortaleza"
    },
-   "362":{  
+   {  
       "id":362,
       "nome":"Moto Club",
       "abreviacao":"MOT",
@@ -648,7 +646,7 @@
       },
       "nome_fantasia":"Moto Club"
    },
-   "363":{  
+   {  
       "id":363,
       "nome":"Sampaio Corrêa",
       "abreviacao":"SAM",
@@ -659,7 +657,7 @@
       },
       "nome_fantasia":"Sampaio Corrêa"
    },
-   "364":{  
+   {  
       "id":364,
       "nome":"Remo",
       "abreviacao":"REM",
@@ -670,7 +668,7 @@
       },
       "nome_fantasia":"Remo"
    },
-   "373":{  
+   {  
       "id":373,
       "nome":"Atlético-GO",
       "abreviacao":"ATL",
@@ -681,7 +679,7 @@
       },
       "nome_fantasia":"Atlético-GO"
    },
-   "375":{  
+   {  
       "id":375,
       "nome":"Vila Nova",
       "abreviacao":"VIL",
@@ -692,7 +690,7 @@
       },
       "nome_fantasia":"Vila Nova"
    },
-   "386":{  
+   {  
       "id":386,
       "nome":"São Caetano",
       "abreviacao":"SAO",
@@ -703,7 +701,7 @@
       },
       "nome_fantasia":"São Caetano"
    },
-   "388":{  
+   {  
       "id":388,
       "nome":"Brasiliense",
       "abreviacao":"BRA",
@@ -714,6 +712,5 @@
       },
       "nome_fantasia":"Brasiliense"
    }
-}
 ]
 }
