@@ -2,35 +2,35 @@
    "estadios":[
       {
          "nome":"",
-         "nome_popular":"Maracan„",
+         "nome_popular":"Maracan√£",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":78838
       },
       {
          "nome":"",
-         "nome_popular":"ManÈ Garrincha",
-         "local":"BrasÌlia",
+         "nome_popular":"Man√© Garrincha",
+         "local":"Bras√≠lia",
          "uf":"DF",
          "capacidade":72788
       },
       {
          "nome":"",
          "nome_popular":"Morumbi",
-         "local":"S„o Paulo",
+         "local":"S√£o Paulo",
          "uf":"SP",
          "capacidade":72039
       },
       {
          "nome":"",
-         "nome_popular":"Castel„o",
+         "nome_popular":"Castel√£o",
          "local":"Fortaleza",
          "uf":"CE",
          "capacidade":63903
       },
       {
          "nome":"",
-         "nome_popular":"Mineir„o",
+         "nome_popular":"Mineir√£o",
          "local":"Belo Horizonte",
          "uf":"MG",
          "capacidade":61846
@@ -44,21 +44,21 @@
       },
       {
          "nome":"",
-         "nome_popular":"Arena do GrÍmio",
+         "nome_popular":"Arena do Gr√™mio",
          "local":"Porto Alegre",
          "uf":"RS",
          "capacidade":55662
       },
       {
          "nome":"",
-         "nome_popular":"Parque do Sabi·",
-         "local":"Uberl‚ndia",
+         "nome_popular":"Parque do Sabi√°",
+         "local":"Uberl√¢ndia",
          "uf":"MG",
          "capacidade":53350
       },
       {
          "nome":"",
-         "nome_popular":"Albert„o",
+         "nome_popular":"Albert√£o",
          "local":"Teresina",
          "uf":"PI",
          "capacidade":52296
@@ -79,22 +79,22 @@
       },
       {
          "nome":"",
-         "nome_popular":"Prudent„o",
+         "nome_popular":"Prudent√£o",
          "local":"Presidente Prudente",
          "uf":"SP",
          "capacidade":45954
       },
       {
          "nome":"",
-         "nome_popular":"Mangueir„o",
-         "local":"BelÈm",
+         "nome_popular":"Mangueir√£o",
+         "local":"Bel√©m",
          "uf":"PA",
          "capacidade":45007
       },
       {
          "nome":"",
          "nome_popular":"Arena Corinthians",
-         "local":"S„o Paulo",
+         "local":"S√£o Paulo",
          "uf":"SP",
          "capacidade":45000
       },
@@ -108,13 +108,13 @@
       {
          "nome":"",
          "nome_popular":"Arena de Pernambuco",
-         "local":"S„o LourenÁo da Mata",
+         "local":"S√£o Louren√ßo da Mata",
          "uf":"PE",
          "capacidade":44300
       },
       {
          "nome":"",
-         "nome_popular":"Arena da AmazÙnia",
+         "nome_popular":"Arena da Amaz√¥nia",
          "local":"Manaus",
          "uf":"AM",
          "capacidade":44000
@@ -122,14 +122,14 @@
       {
          "nome":"",
          "nome_popular":"Arena Pantanal",
-         "local":"Cuiab·",
+         "local":"Cuiab√°",
          "uf":"MT",
          "capacidade":44000
       },
       {
          "nome":"",
          "nome_popular":"Allianz Parque",
-         "local":"S„o Paulo",
+         "local":"S√£o Paulo",
          "uf":"SP",
          "capacidade":43713
       },
@@ -143,7 +143,7 @@
       {
          "nome":"",
          "nome_popular":"Serra Dourada",
-         "local":"Goi‚nia",
+         "local":"Goi√¢nia",
          "uf":"GO",
          "capacidade":42000
       },
@@ -156,21 +156,21 @@
       },
       {
          "nome":"",
-         "nome_popular":"Castel„o",
-         "local":"S„o LuÌs",
+         "nome_popular":"Castel√£o",
+         "local":"S√£o Lu√≠s",
          "uf":"MA",
          "capacidade":40149
       },
       {
          "nome":"",
          "nome_popular":"Pacaembu",
-         "local":"S„o Paulo",
+         "local":"S√£o Paulo",
          "uf":"SP",
          "capacidade":37730
       },
       {
          "nome":"",
-         "nome_popular":"Barrad„o",
+         "nome_popular":"Barrad√£o",
          "local":"Salvador",
          "uf":"BA",
          "capacidade":34535
@@ -184,14 +184,14 @@
       },
       {
          "nome":"",
-         "nome_popular":"Teixeir„o",
-         "local":"S„o JosÈ do Rio Preto",
+         "nome_popular":"Teixeir√£o",
+         "local":"S√£o Jos√© do Rio Preto",
          "uf":"SP",
          "capacidade":32168
       },
       {
          "nome":"",
-         "nome_popular":"PituaÁu",
+         "nome_popular":"Pitua√ßu",
          "local":"Salvador",
          "uf":"BA",
          "capacidade":32157
@@ -205,7 +205,7 @@
       },
       {
          "nome":"",
-         "nome_popular":"Helen„o",
+         "nome_popular":"Helen√£o",
          "local":"Juiz de Fora",
          "uf":"MG",
          "capacidade":31863
@@ -219,14 +219,14 @@
       },
       {
          "nome":"",
-         "nome_popular":"Est·dio do CafÈ",
+         "nome_popular":"Est√°dio do Caf√©",
          "local":"Londrina",
          "uf":"PR",
          "capacidade":30000
       },
       {
          "nome":"",
-         "nome_popular":"Dourad„o",
+         "nome_popular":"Dourad√£o",
          "local":"Dourados",
          "uf":"MS",
          "capacidade":30000
@@ -234,7 +234,7 @@
       {
          "nome":"",
          "nome_popular":"Santa Cruz",
-         "local":"Ribeir„o Preto",
+         "local":"Ribeir√£o Preto",
          "uf":"SP",
          "capacidade":29292
       },
@@ -247,28 +247,28 @@
       },
       {
          "nome":"",
-         "nome_popular":"Boca do JacarÈ",
+         "nome_popular":"Boca do Jacar√©",
          "local":"Taguatinga",
          "uf":"DF",
          "capacidade":27000
       },
       {
          "nome":"",
-         "nome_popular":"Irm„o Gino Maria Rossi",
+         "nome_popular":"Irm√£o Gino Maria Rossi",
          "local":"Pouso Alegre",
          "uf":"MG",
          "capacidade":26000
       },
       {
          "nome":"",
-         "nome_popular":"Almeid„o",
-         "local":"Jo„o Pessoa",
+         "nome_popular":"Almeid√£o",
+         "local":"Jo√£o Pessoa",
          "uf":"PB",
          "capacidade":25770
       },
       {
          "nome":"",
-         "nome_popular":"Amig„o",
+         "nome_popular":"Amig√£o",
          "local":"Campina Grande",
          "uf":"PB",
          "capacidade":25770
@@ -282,14 +282,14 @@
       },
       {
          "nome":"",
-         "nome_popular":"Moren„o",
+         "nome_popular":"Moren√£o",
          "local":"Campo Grande",
          "uf":"MS",
          "capacidade":24000
       },
       {
          "nome":"",
-         "nome_popular":"IndependÍncia",
+         "nome_popular":"Independ√™ncia",
          "local":"Belo Horizonte",
          "uf":"MG",
          "capacidade":23018
@@ -303,7 +303,7 @@
       },
       {
          "nome":"",
-         "nome_popular":"Centen·rio",
+         "nome_popular":"Centen√°rio",
          "local":"Caxias do Sul",
          "uf":"RS",
          "capacidade":22132
@@ -317,15 +317,15 @@
       },
       {
          "nome":"",
-         "nome_popular":"S„o Janu·rio",
+         "nome_popular":"S√£o Janu√°rio",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":21880
       },
       {
          "nome":"",
-         "nome_popular":"CanindÈ",
-         "local":"S„o Paulo",
+         "nome_popular":"Canind√©",
+         "local":"S√£o Paulo",
          "uf":"SP",
          "capacidade":21004
       },
@@ -338,7 +338,7 @@
       },
       {
          "nome":"",
-         "nome_popular":"Bezerr„o",
+         "nome_popular":"Bezerr√£o",
          "local":"Gama",
          "uf":"DF",
          "capacidade":20310
@@ -359,14 +359,14 @@
       },
       {
          "nome":"",
-         "nome_popular":"Arena do JacarÈ",
+         "nome_popular":"Arena do Jacar√©",
          "local":"Sete Lagoas",
          "uf":"MG",
          "capacidade":20020
       },
       {
          "nome":"",
-         "nome_popular":"Est·dio Luso-Brasileiro",
+         "nome_popular":"Est√°dio Luso-Brasileiro",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":20000
@@ -387,8 +387,8 @@
       },
       {
          "nome":"",
-         "nome_popular":"Heriberto H¸lse",
-         "local":"Crici˙ma",
+         "nome_popular":"Heriberto H√ºlse",
+         "local":"Crici√∫ma",
          "uf":"SC",
          "capacidade":19900
       },
@@ -402,20 +402,20 @@
       {
          "nome":"",
          "nome_popular":"Orlando Scarpelli",
-         "local":"FlorianÛpolis",
+         "local":"Florian√≥polis",
          "uf":"SC",
          "capacidade":19584
       },
       {
          "nome":"",
-         "nome_popular":"Lacerd„o",
+         "nome_popular":"Lacerd√£o",
          "local":"Caruaru",
          "uf":"PE",
          "capacidade":19478
       },
       {
          "nome":"",
-         "nome_popular":"Novelli J˙nior",
+         "nome_popular":"Novelli J√∫nior",
          "local":"Itu",
          "uf":"SP",
          "capacidade":18560
@@ -423,7 +423,7 @@
       {
          "nome":"",
          "nome_popular":"Palma Travassos",
-         "local":"Ribeir„o Preto",
+         "local":"Ribeir√£o Preto",
          "uf":"SP",
          "capacidade":18277
       },
@@ -436,7 +436,7 @@
       },
       {
          "nome":"",
-         "nome_popular":"Bar„o de Serra Negra",
+         "nome_popular":"Bar√£o de Serra Negra",
          "local":"Piracicaba",
          "uf":"SP",
          "capacidade":18000
@@ -450,7 +450,7 @@
       },
       {
          "nome":"",
-         "nome_popular":"Est·dio Õtalo del Cima",
+         "nome_popular":"Est√°dio √çtalo del Cima",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":18000
@@ -458,20 +458,20 @@
       {
          "nome":"",
          "nome_popular":"Luthero Lopes",
-         "local":"RondonÛpolis",
+         "local":"Rondon√≥polis",
          "uf":"MT",
          "capacidade":18000
       },
       {
          "nome":"",
          "nome_popular":"Ressacada",
-         "local":"FlorianÛpolis",
+         "local":"Florian√≥polis",
          "uf":"SC",
          "capacidade":17826
       },
       {
          "nome":"",
-         "nome_popular":"MoisÈs Lucarelli",
+         "nome_popular":"Mois√©s Lucarelli",
          "local":"Campinas",
          "uf":"SP",
          "capacidade":17728
@@ -485,15 +485,15 @@
       },
       {
          "nome":"",
-         "nome_popular":"Trapich„o",
-         "local":"MaceiÛ",
+         "nome_popular":"Trapich√£o",
+         "local":"Macei√≥",
          "uf":"AL",
          "capacidade":17126
       },
       {
          "nome":"",
          "nome_popular":"Nabi Abi Chedid",
-         "local":"BraganÁa Paulista",
+         "local":"Bragan√ßa Paulista",
          "uf":"SP",
          "capacidade":17022
       },
@@ -507,14 +507,14 @@
       {
          "nome":"",
          "nome_popular":"Anacleto Campanella",
-         "local":"S„o Caetano do Sul",
+         "local":"S√£o Caetano do Sul",
          "uf":"SP",
          "capacidade":16744
       },
       {
          "nome":"",
          "nome_popular":"Martins Pereira",
-         "local":"S„o JosÈ dos Campos",
+         "local":"S√£o Jos√© dos Campos",
          "uf":"SP",
          "capacidade":16500
       },
@@ -527,21 +527,21 @@
       },
       {
          "nome":"",
-         "nome_popular":"Alfred„o",
+         "nome_popular":"Alfred√£o",
          "local":"Bauru",
          "uf":"SP",
          "capacidade":16300
       },
       {
          "nome":"",
-         "nome_popular":"DÈcio Vitta",
+         "nome_popular":"D√©cio Vitta",
          "local":"Americana",
          "uf":"SP",
          "capacidade":16300
       },
       {
          "nome":"",
-         "nome_popular":"JÛia da Princesa",
+         "nome_popular":"J√≥ia da Princesa",
          "local":"Feira de Santana",
          "uf":"BA",
          "capacidade":16274
@@ -549,14 +549,14 @@
       {
          "nome":"",
          "nome_popular":"Willie Davids",
-         "local":"Maring·",
+         "local":"Maring√°",
          "uf":"PR",
          "capacidade":16226
       },
       {
          "nome":"",
          "nome_popular":"Curuzu",
-         "local":"BelÈm",
+         "local":"Bel√©m",
          "uf":"PA",
          "capacidade":16200
       },
@@ -570,7 +570,7 @@
       {
          "nome":"",
          "nome_popular":"Dario Rodrigues Leite",
-         "local":"Guaratinguet·",
+         "local":"Guaratinguet√°",
          "uf":"SP",
          "capacidade":16095
       },
@@ -583,14 +583,14 @@
       },
       {
          "nome":"",
-         "nome_popular":"Arena Cond·",
-         "local":"ChapecÛ",
+         "nome_popular":"Arena Cond√°",
+         "local":"Chapec√≥",
          "uf":"SC",
          "capacidade":15765
       },
       {
          "nome":"",
-         "nome_popular":"Arena Batist„o",
+         "nome_popular":"Arena Batist√£o",
          "local":"Aracaju",
          "uf":"SE",
          "capacidade":15586
@@ -604,14 +604,14 @@
       },
       {
          "nome":"",
-         "nome_popular":"Mel„o",
+         "nome_popular":"Mel√£o",
          "local":"Varginha",
          "uf":"MG",
          "capacidade":15471
       },
       {
          "nome":"",
-         "nome_popular":"Gilbert„o",
+         "nome_popular":"Gilbert√£o",
          "local":"Lins",
          "uf":"SP",
          "capacidade":15064
@@ -619,34 +619,34 @@
       {
          "nome":"",
          "nome_popular":"Bento de Abreu",
-         "local":"MarÌlia",
+         "local":"Mar√≠lia",
          "uf":"SP",
          "capacidade":15010
       },
       {
          "nome":"",
          "nome_popular":"Alfredo Chiavegato",
-         "local":"Jaguari˙na",
+         "local":"Jaguari√∫na",
          "uf":"SP",
          "capacidade":15000
       },
       {
          "nome":"",
-         "nome_popular":"Arapuc„o",
-         "local":"JataÌ",
+         "nome_popular":"Arapuc√£o",
+         "local":"Jata√≠",
          "uf":"GO",
          "capacidade":15000
       },
       {
          "nome":"",
          "nome_popular":"Carlos Affini",
-         "local":"ParaguaÁu Paulista",
+         "local":"Paragua√ßu Paulista",
          "uf":"SP",
          "capacidade":15000
       },
       {
          "nome":"",
-         "nome_popular":"Fumeir„o",
+         "nome_popular":"Fumeir√£o",
          "local":"Arapiraca",
          "uf":"AL",
          "capacidade":15000
@@ -660,42 +660,42 @@
       },
       {
          "nome":"",
-         "nome_popular":"JosÈ Maria Campos Maia",
+         "nome_popular":"Jos√© Maria Campos Maia",
          "local":"Mirassol",
          "uf":"SP",
          "capacidade":15000
       },
       {
          "nome":"",
-         "nome_popular":"Moacyrz„o",
-         "local":"MacaÈ",
+         "nome_popular":"Moacyrz√£o",
+         "local":"Maca√©",
          "uf":"RJ",
          "capacidade":15000
       },
       {
          "nome":"",
          "nome_popular":"Maria Teresa Breda",
-         "local":"OlÌmpia",
+         "local":"Ol√≠mpia",
          "uf":"SP",
          "capacidade":15000
       },
       {
          "nome":"",
-         "nome_popular":"Vermelh„o da Serra",
+         "nome_popular":"Vermelh√£o da Serra",
          "local":"Passo Fundo",
          "uf":"RS",
          "capacidade":15000
       },
       {
          "nome":"",
-         "nome_popular":"Antonio Lins Ribeiro Guimar„es",
-         "local":"Santa B·rbara d'Oeste",
+         "nome_popular":"Antonio Lins Ribeiro Guimar√£es",
+         "local":"Santa B√°rbara d'Oeste",
          "uf":"SP",
          "capacidade":14913
       },
       {
          "nome":"",
-         "nome_popular":"Frasqueir„o",
+         "nome_popular":"Frasqueir√£o",
          "local":"Natal",
          "uf":"RN",
          "capacidade":14740
@@ -716,15 +716,15 @@
       },
       {
          "nome":"",
-         "nome_popular":"AnÌsio Haddad",
-         "local":"S„o JosÈ do Rio Preto",
+         "nome_popular":"An√≠sio Haddad",
+         "local":"S√£o Jos√© do Rio Preto",
          "uf":"SP",
          "capacidade":14014
       },
       {
          "nome":"",
          "nome_popular":"Jayme Cintra",
-         "local":"JundiaÌ",
+         "local":"Jundia√≠",
          "uf":"SP",
          "capacidade":13905
       },
@@ -744,8 +744,8 @@
       },
       {
          "nome":"",
-         "nome_popular":"Zer„o",
-         "local":"Macap·",
+         "nome_popular":"Zer√£o",
+         "local":"Macap√°",
          "uf":"AP",
          "capacidade":13680
       },
@@ -758,21 +758,21 @@
       },
       {
          "nome":"",
-         "nome_popular":"Est·dio OlÌmpico",
-         "local":"Goi‚nia",
+         "nome_popular":"Est√°dio Ol√≠mpico",
+         "local":"Goi√¢nia",
          "uf":"GO",
          "capacidade":13500
       },
       {
          "nome":"",
          "nome_popular":"Primeiro de Maio",
-         "local":"S„o Bernardo do Campo",
+         "local":"S√£o Bernardo do Campo",
          "uf":"SP",
          "capacidade":13440
       },
       {
          "nome":"",
-         "nome_popular":"OtacÌlia PatrÌcio Arroyo",
+         "nome_popular":"Otac√≠lia Patr√≠cio Arroyo",
          "local":"Monte Azul Paulista",
          "uf":"SP",
          "capacidade":13100
@@ -800,8 +800,8 @@
       },
       {
          "nome":"",
-         "nome_popular":"Zezinho Magalh„es",
-         "local":"Ja˙",
+         "nome_popular":"Zezinho Magalh√£es",
+         "local":"Ja√∫",
          "uf":"SP",
          "capacidade":12978
       },
@@ -815,7 +815,7 @@
       {
          "nome":"",
          "nome_popular":"Montanha dos Vinhedos",
-         "local":"Bento GonÁalves",
+         "local":"Bento Gon√ßalves",
          "uf":"RS",
          "capacidade":12859
       },
@@ -829,13 +829,13 @@
       {
          "nome":"",
          "nome_popular":"Serra do Lago",
-         "local":"Luzi‚nia",
+         "local":"Luzi√¢nia",
          "uf":"GO",
          "capacidade":12300
       },
       {
          "nome":"",
-         "nome_popular":"CornÈlio de Barros",
+         "nome_popular":"Corn√©lio de Barros",
          "local":"Salgueiro",
          "uf":"PE",
          "capacidade":12070
@@ -849,22 +849,22 @@
       },
       {
          "nome":"",
-         "nome_popular":"Est·dio Caio Martins",
-         "local":"NiterÛi",
+         "nome_popular":"Est√°dio Caio Martins",
+         "local":"Niter√≥i",
          "uf":"RJ",
          "capacidade":12000
       },
       {
          "nome":"",
-         "nome_popular":"Baen„o",
-         "local":"BelÈm",
+         "nome_popular":"Baen√£o",
+         "local":"Bel√©m",
          "uf":"PA",
          "capacidade":12000
       },
       {
          "nome":"",
-         "nome_popular":"Parque S„o Jorge",
-         "local":"S„o Paulo",
+         "nome_popular":"Parque S√£o Jorge",
+         "local":"S√£o Paulo",
          "uf":"SP",
          "capacidade":12000
       },
@@ -876,50 +876,50 @@
          "capacidade":11784
       },
       {
-         "nome":"Est·dio Municipal Prefeito JosÈ Liberatti",
-         "nome_popular":"JosÈ Liberatti",
+         "nome":"Est√°dio Municipal Prefeito Jos√© Liberatti",
+         "nome_popular":"Jos√© Liberatti",
          "local":"Osasco",
          "uf":"SP",
          "capacidade":11780
       },
       {
-         "nome":"",
-         "nome_popular":"Lomant„o",
-         "local":"VitÛria da Conquista",
+         "nome":"Est√°dio Lomanto J√∫nior",
+         "nome_popular":"Lomant√£o",
+         "local":"Vit√≥ria da Conquista",
          "uf":"BA",
          "capacidade":11538
       },
       {
          "nome":"",
          "nome_popular":"Nhozinho Santos",
-         "local":"S„o LuÌs",
+         "local":"S√£o Lu√≠s",
          "uf":"MA",
          "capacidade":11429
       },
       {
          "nome":"",
-         "nome_popular":"Adhermaz„o",
-         "local":"AraÁatuba",
+         "nome_popular":"Adhermaz√£o",
+         "local":"Ara√ßatuba",
          "uf":"SP",
          "capacidade":11274
       },
       {
          "nome":"",
-         "nome_popular":"Carneir„o",
-         "local":"VitÛria de Santo Ant„o",
+         "nome_popular":"Carneir√£o",
+         "local":"Vit√≥ria de Santo Ant√£o",
          "uf":"PE",
          "capacidade":10911
       },
       {
          "nome":"",
          "nome_popular":"Jonas Duarte",
-         "local":"An·polis",
+         "local":"An√°polis",
          "uf":"GO",
          "capacidade":10707
       },
       {
          "nome":"",
-         "nome_popular":"Germano Kr¸ger",
+         "nome_popular":"Germano Kr√ºger",
          "local":"Ponta Grossa",
          "uf":"PR",
          "capacidade":10632
@@ -933,43 +933,43 @@
       },
       {
          "nome":"",
-         "nome_popular":"Doming„o",
+         "nome_popular":"Doming√£o",
          "local":"Horizonte",
          "uf":"CE",
          "capacidade":10400
       },
       {
          "nome":"",
-         "nome_popular":"Vavaz„o",
+         "nome_popular":"Vavaz√£o",
          "local":"Maruim",
          "uf":"SE",
          "capacidade":10235
       },
       {
          "nome":"",
-         "nome_popular":"SÛcrates Stamato",
+         "nome_popular":"S√≥crates Stamato",
          "local":"Bebedouro",
          "uf":"SP",
          "capacidade":10200
       },
       {
          "nome":"",
-         "nome_popular":"Arena do CalÁado",
+         "nome_popular":"Arena do Cal√ßado",
          "local":"Nova Serrana",
          "uf":"MG",
          "capacidade":10000
       },
       {
          "nome":"",
-         "nome_popular":"…rton Coelho Queiroz",
+         "nome_popular":"√ârton Coelho Queiroz",
          "local":"Curitiba",
          "uf":"PR",
          "capacidade":10000
       },
       {
          "nome":"",
-         "nome_popular":"LuÌs Augusto de Oliveira",
-         "local":"S„o Carlos",
+         "nome_popular":"Lu√≠s Augusto de Oliveira",
+         "local":"S√£o Carlos",
          "uf":"SP",
          "capacidade":10000
       },
@@ -996,7 +996,7 @@
       },
       {
          "nome":"",
-         "nome_popular":"Frei Epif‚nio",
+         "nome_popular":"Frei Epif√¢nio",
          "local":"Imperatriz",
          "uf":"MA",
          "capacidade":10000
@@ -1010,21 +1010,21 @@
       },
       {
          "nome":"",
-         "nome_popular":"Presidente MÈdici",
+         "nome_popular":"Presidente M√©dici",
          "local":"Itabaiana",
          "uf":"SE",
          "capacidade":10000
       },
       {
          "nome":"",
-         "nome_popular":"Ribeir„o",
-         "local":"TocantinÛpolis",
+         "nome_popular":"Ribeir√£o",
+         "local":"Tocantin√≥polis",
          "uf":"TO",
          "capacidade":10000
       },
       {
          "nome":"",
-         "nome_popular":"Romeir„o",
+         "nome_popular":"Romeir√£o",
          "local":"Juazeiro do Norte",
          "uf":"CE",
          "capacidade":10000
