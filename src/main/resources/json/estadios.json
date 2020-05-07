@@ -141,7 +141,7 @@
          "capacidade":42372
       },
       {
-         "nome":"Estádio Serra Dourada",
+         "nome":" Estádio Serra Dourada",
          "nome_popular":"Serra Dourada",
          "local":"Goiânia",
          "uf":"GO",
@@ -351,35 +351,35 @@
          "capacidade":20262
       },
       {
-         "nome":"Arena Joinville",
+         "nome":"",
          "nome_popular":"Arena Joinville",
          "local":"Joinville",
          "uf":"SC",
          "capacidade":20160
       },
       {
-         "nome":"Estádio Joaquim Henrique Nogueira",
+         "nome":"",
          "nome_popular":"Arena do Jacaré",
          "local":"Sete Lagoas",
          "uf":"MG",
          "capacidade":20020
       },
       {
-         "nome":"Estádio dos Ventos Uivantes",
+         "nome":"",
          "nome_popular":"Estádio Luso-Brasileiro",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":20000
       },
       {
-         "nome":"Estádio Doutor Adhemar de Barro",
+         "nome":"",
          "nome_popular":"Arena da Fonte Luminosa",
          "local":"Araraquara",
          "uf":"SP",
          "capacidade":20000
       },
       {
-         "nome":"Estádio Alfredo Jaconi",
+         "nome":"",
          "nome_popular":"Alfredo Jaconi",
          "local":"Caxias do Sul",
          "uf":"RS",
@@ -421,28 +421,28 @@
          "capacidade":18560
       },
       {
-         "nome":"Estádio Doutor Francisco de Palma Travassos",
+         "nome":"",
          "nome_popular":"Palma Travassos",
          "local":"Ribeirão Preto",
          "uf":"SP",
          "capacidade":18277
       },
       {
-         "nome":"Estádio General Sylvio Raulino de Oliveira",
+         "nome":"",
          "nome_popular":"Raulino de Oliveira",
          "local":"Volta Redonda",
          "uf":"RJ",
          "capacidade":18230
       },
       {
-         "nome":"Estádio Barão de Serra Negra",
+         "nome":"",
          "nome_popular":"Barão de Serra Negra",
          "local":"Piracicaba",
          "uf":"SP",
          "capacidade":18000
       },
       {
-         "nome":"Estádio Major José Levy Sobrinho",
+         "nome":"",
          "nome_popular":"Major Levy Sobrinho",
          "local":"Limeira",
          "uf":"SP",
@@ -456,7 +456,7 @@
          "capacidade":18000
       },
       {
-         "nome":"Estádio Ítalo Del Cima",
+         "nome":"",
          "nome_popular":"Luthero Lopes",
          "local":"Rondonópolis",
          "uf":"MT",
@@ -701,35 +701,35 @@
          "capacidade":14740
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Doutor José Lancha Filho",
          "nome_popular":"Lancha Filho",
          "local":"Franca",
          "uf":"SP",
          "capacidade":14686
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Francisco Ribeiro Nogueira",
          "nome_popular":"Francisco Nogueira Filho",
          "local":"Mogi das Cruzes",
          "uf":"SP",
          "capacidade":14384
       },
       {
-         "nome":"",
+         "nome":"Estádio Anísio Haddad",
          "nome_popular":"Anísio Haddad",
          "local":"São José do Rio Preto",
          "uf":"SP",
          "capacidade":14014
       },
       {
-         "nome":"",
+         "nome":"Estádio Doutor Jayme Cintra",
          "nome_popular":"Jayme Cintra",
          "local":"Jundiaí",
          "uf":"SP",
          "capacidade":13905
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Walter Ribeiro",
          "nome_popular":"Walter Ribeiro",
          "local":"Sorocaba",
          "uf":"SP",
