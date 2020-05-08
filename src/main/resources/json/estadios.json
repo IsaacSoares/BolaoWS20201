@@ -141,7 +141,7 @@
          "capacidade":42372
       },
       {
-         "nome":" Estádio Serra Dourada",
+         "nome":"Estádio Serra Dourada",
          "nome_popular":"Serra Dourada",
          "local":"Goiânia",
          "uf":"GO",
@@ -351,35 +351,35 @@
          "capacidade":20262
       },
       {
-         "nome":"",
+         "nome":"Arena Joinville",
          "nome_popular":"Arena Joinville",
          "local":"Joinville",
          "uf":"SC",
          "capacidade":20160
       },
       {
-         "nome":"",
+         "nome":"Estádio Joaquim Henrique Nogueira",
          "nome_popular":"Arena do Jacaré",
          "local":"Sete Lagoas",
          "uf":"MG",
          "capacidade":20020
       },
       {
-         "nome":"",
+         "nome":"Estádio dos Ventos Uivantes",
          "nome_popular":"Estádio Luso-Brasileiro",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":20000
       },
       {
-         "nome":"",
+         "nome":"Estádio Doutor Adhemar de Barro",
          "nome_popular":"Arena da Fonte Luminosa",
          "local":"Araraquara",
          "uf":"SP",
          "capacidade":20000
       },
       {
-         "nome":"",
+         "nome":"Estádio Alfredo Jaconi",
          "nome_popular":"Alfredo Jaconi",
          "local":"Caxias do Sul",
          "uf":"RS",
@@ -421,35 +421,35 @@
          "capacidade":18560
       },
       {
-         "nome":"",
+         "nome":"Estádio Doutor Francisco de Palma Travassos",
          "nome_popular":"Palma Travassos",
          "local":"Ribeirão Preto",
          "uf":"SP",
          "capacidade":18277
       },
       {
-         "nome":"",
+         "nome":"Estádio General Sylvio Raulino de Oliveira",
          "nome_popular":"Raulino de Oliveira",
          "local":"Volta Redonda",
          "uf":"RJ",
          "capacidade":18230
       },
       {
-         "nome":"",
+         "nome":"Estádio Barão de Serra Negra",
          "nome_popular":"Barão de Serra Negra",
          "local":"Piracicaba",
          "uf":"SP",
          "capacidade":18000
       },
       {
-         "nome":"",
+         "nome":"Estádio Major José Levy Sobrinho",
          "nome_popular":"Major Levy Sobrinho",
          "local":"Limeira",
          "uf":"SP",
          "capacidade":18000
       },
       {
-         "nome":"",
+         "nome":"Estádio Ítalo Del Cima",
          "nome_popular":"Estádio Ítalo del Cima",
          "local":"Rio de Janeiro",
          "uf":"RJ",
