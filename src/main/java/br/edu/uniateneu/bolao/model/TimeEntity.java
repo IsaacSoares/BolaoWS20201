@@ -10,7 +10,6 @@ import javax.persistence.JoinColumn;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
-import br.edu.uniateneu.bolao.cartola.Estadio;
 
 @Entity
 @Table(name="tb_time")
@@ -27,7 +26,7 @@ public class TimeEntity {
 	private String escudo;
 	@OneToOne(cascade = CascadeType.ALL)
 	@JoinColumn(name = "cd_estadio", nullable = true)
-	private Estadio estadio;
+	private EstadioEntity estadio;
 	@Column(name="nm_sigla")
 	private String sigla;
 	@Column(name="cd_globo")
@@ -64,10 +63,10 @@ public class TimeEntity {
 	public void setEscudo(String escudo) {
 		this.escudo = escudo;
 	}
-	public Estadio getEstadio() {
+	public EstadioEntity getEstadio() {
 		return estadio;
 	}
-	public void setEstadio(Estadio estadio) {
+	public void setEstadioEntity(EstadioEntity estadio) {
 		this.estadio = estadio;
 	}
 	public String getSigla() {

@@ -1,6 +1,11 @@
 package br.edu.uniateneu.bolao.cartola;
 
 public class Estadio {
+	private String nome;
+	
+	public Estadio() {
+		// TODO Auto-generated constructor stub
+	}
 	private String nome_popular;
 
 	public String getNome_popular() {

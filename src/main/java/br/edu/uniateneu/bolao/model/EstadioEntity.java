@@ -26,14 +26,15 @@ public class EstadioEntity {
 	private String endereco;
 	@Column (name= "nm_uf")
 	private String uf;
+	@Column (name = "vl_capacidade")
+	private Long capacidade;
+	
 	public String getUf() {
 		return uf;
 	}
 	public void setUf(String uf) {
 		this.uf = uf;
 	}
-	@Column (name = "vl_capacidade")
-	private Long capacidade;
 	public Long getId() {
 		return id;
 	}
