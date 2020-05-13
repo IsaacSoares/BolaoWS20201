@@ -2,69 +2,69 @@
    "estadios":[
       {
          "nome":"",
-         "nome_popular":"MaracanÃ£",
+         "nome_popular":"Maracanã",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":78838
       },
       {
          "nome":"",
-         "nome_popular":"ManÃ© Garrincha",
-         "local":"BrasÃ­lia",
+         "nome_popular":"Mané Garrincha",
+         "local":"Brasília",
          "uf":"DF",
          "capacidade":72788
       },
       {
          "nome":"",
          "nome_popular":"Morumbi",
-         "local":"SÃ£o Paulo",
+         "local":"São Paulo",
          "uf":"SP",
          "capacidade":72039
       },
       {
          "nome":"",
-         "nome_popular":"CastelÃ£o",
+         "nome_popular":"Castelão",
          "local":"Fortaleza",
          "uf":"CE",
          "capacidade":63903
       },
       {
          "nome":"",
-         "nome_popular":"MineirÃ£o",
+         "nome_popular":"Mineirão",
          "local":"Belo Horizonte",
          "uf":"MG",
          "capacidade":61846
       },
       {
-         "nome":"EstÃ¡dio JosÃ© do Rego Maciel",
+         "nome":"Estádio José do Rego Maciel",
          "nome_popular":"Arruda",
          "local":"Recife",
          "uf":"PE",
          "capacidade":60044
       },
       {
-         "nome":"EstÃ¡dio Arena do  GrÃªmio",
-         "nome_popular":"Arena do GrÃªmio",
+         "nome":"Estádio Arena do  Grêmio",
+         "nome_popular":"Arena do Grêmio",
          "local":"Porto Alegre",
          "uf":"RS",
          "capacidade":55662
       },
       {
-         "nome":"EstÃ¡dio Municipal Parque do SabiÃ¡",
-         "nome_popular":"Parque do SabiÃ¡",
-         "local":"UberlÃ¢ndia",
+         "nome":"Estádio Municipal Parque do Sabiá",
+         "nome_popular":"Parque do Sabiá",
+         "local":"Uberlândia",
          "uf":"MG",
          "capacidade":53350
       },
       {
-         "nome":"EstÃ¡dio Governador Alberto Tavares Silva",
-         "nome_popular":"AlbertÃ£o",
+         "nome":"Estádio Governador Alberto Tavares Silva",
+         "nome_popular":"Albertão",
          "local":"Teresina",
          "uf":"PI",
          "capacidade":52296
       },
       {
-         "nome":"EstÃ¡dio JosÃ© Pinheiro Borda",
+         "nome":"Estádio José Pinheiro Borda",
          "nome_popular":"Beira-Rio",
          "local":"Porto Alegre",
          "uf":"RS",
@@ -79,22 +79,22 @@
       },
       {
          "nome":"",
-         "nome_popular":"PrudentÃ£o",
+         "nome_popular":"Prudentão",
          "local":"Presidente Prudente",
          "uf":"SP",
          "capacidade":45954
       },
       {
          "nome":"",
-         "nome_popular":"MangueirÃ£o",
-         "local":"BelÃ©m",
+         "nome_popular":"Mangueirão",
+         "local":"Belém",
          "uf":"PA",
          "capacidade":45007
       },
       {
          "nome":"",
          "nome_popular":"Arena Corinthians",
-         "local":"SÃ£o Paulo",
+         "local":"São Paulo",
          "uf":"SP",
          "capacidade":45000
       },
@@ -106,71 +106,71 @@
          "capacidade":44661
       },
       {
-         "nome":"EstÃ¡dio Governador Carlos Wilson Campos",
+         "nome":"Estádio Governador Carlos Wilson Campos",
          "nome_popular":"Arena de Pernambuco",
-         "local":"SÃ£o LourenÃ§o da Mata",
+         "local":"São Lourenço da Mata",
          "uf":"PE",
          "capacidade":44300
       },
       {
-         "nome":"Arena da AmazÃ´nia â€“ Vivaldo Lima",
-         "nome_popular":"Arena da AmazÃ´nia",
+         "nome":"Arena da Amazônia - Vivaldo Lima",
+         "nome_popular":"Arena da Amazônia",
          "local":"Manaus",
          "uf":"AM",
          "capacidade":44000
       },
       {
-         "nome":"EstÃ¡dio JosÃ© Fragelli",
+         "nome":"Estádio José Fragelli",
          "nome_popular":"Arena Pantanal",
-         "local":"CuiabÃ¡",
+         "local":"Cuiabá",
          "uf":"MT",
          "capacidade":44000
       },
       {
-         "nome":"EstÃ¡dio Palestra ItÃ¡lia",
+         "nome":"Estádio Palestra Itália",
          "nome_popular":"Allianz Parque",
-         "local":"SÃ£o Paulo",
+         "local":"São Paulo",
          "uf":"SP",
          "capacidade":43713
       },
       {
-         "nome":"EstÃ¡dio Joaquim AmÃ©rico GuimarÃ£es",
+         "nome":"Estádio Joaquim Américo Guimarães",
          "nome_popular":"Arena da Baixada",
          "local":"Curitiba",
          "uf":"PR",
          "capacidade":42372
       },
       {
-         "nome":"EstÃ¡dio Serra Dourada",
+         "nome":"Estádio Serra Dourada",
          "nome_popular":"Serra Dourada",
-         "local":"GoiÃ¢nia",
+         "local":"Goiânia",
          "uf":"GO",
          "capacidade":42000
       },
       {
-         "nome":"EstÃ¡dio Major AntÃ´nio Couto Pereira",
+         "nome":"Estádio Major Antônio Couto Pereira",
          "nome_popular":"Couto Pereira",
          "local":"Curitiba",
          "uf":"PR",
          "capacidade":40502
       },
       {
-         "nome":"EstÃ¡dio Governador JoÃ£o Castelo",
-         "nome_popular":"CastelÃ£o",
-         "local":"SÃ£o LuÃ­s",
+         "nome":"Estádio Governador João Castelo",
+         "nome_popular":"Castelão",
+         "local":"São Luís",
          "uf":"MA",
          "capacidade":40149
       },
       {
-         "nome":"EstÃ¡dio Municipal Paulo Machado de Carvalho",
+         "nome":"Estádio Municipal Paulo Machado de Carvalho",
          "nome_popular":"Pacaembu",
-         "local":"SÃ£o Paulo",
+         "local":"São Paulo",
          "uf":"SP",
          "capacidade":37730
       },
       {
-         "nome":"EstÃ¡dio Manoel Barradas",
-         "nome_popular":"BarradÃ£o",
+         "nome":"Estádio Manoel Barradas",
+         "nome_popular":"Barradão",
          "local":"Salvador",
          "uf":"BA",
          "capacidade":34535
@@ -184,14 +184,14 @@
       },
       {
          "nome":"",
-         "nome_popular":"TeixeirÃ£o",
-         "local":"SÃ£o JosÃ© do Rio Preto",
+         "nome_popular":"Teixeirão",
+         "local":"São José do Rio Preto",
          "uf":"SP",
          "capacidade":32168
       },
       {
          "nome":"",
-         "nome_popular":"PituaÃ§u",
+         "nome_popular":"Pituaçu",
          "local":"Salvador",
          "uf":"BA",
          "capacidade":32157
@@ -205,7 +205,7 @@
       },
       {
          "nome":"",
-         "nome_popular":"HelenÃ£o",
+         "nome_popular":"Helenão",
          "local":"Juiz de Fora",
          "uf":"MG",
          "capacidade":31863
@@ -219,14 +219,14 @@
       },
       {
          "nome":"",
-         "nome_popular":"EstÃ¡dio do CafÃ©",
+         "nome_popular":"Estádio do Café",
          "local":"Londrina",
          "uf":"PR",
          "capacidade":30000
       },
       {
          "nome":"",
-         "nome_popular":"DouradÃ£o",
+         "nome_popular":"Douradão",
          "local":"Dourados",
          "uf":"MS",
          "capacidade":30000
@@ -234,7 +234,7 @@
       {
          "nome":"",
          "nome_popular":"Santa Cruz",
-         "local":"RibeirÃ£o Preto",
+         "local":"Ribeirão Preto",
          "uf":"SP",
          "capacidade":29292
       },
@@ -247,28 +247,28 @@
       },
       {
          "nome":"",
-         "nome_popular":"Boca do JacarÃ©",
+         "nome_popular":"Boca do Jacaré",
          "local":"Taguatinga",
          "uf":"DF",
          "capacidade":27000
       },
       {
          "nome":"",
-         "nome_popular":"IrmÃ£o Gino Maria Rossi",
+         "nome_popular":"Irmão Gino Maria Rossi",
          "local":"Pouso Alegre",
          "uf":"MG",
          "capacidade":26000
       },
       {
          "nome":"",
-         "nome_popular":"AlmeidÃ£o",
-         "local":"JoÃ£o Pessoa",
+         "nome_popular":"Almeidão",
+         "local":"João Pessoa",
          "uf":"PB",
          "capacidade":25770
       },
       {
          "nome":"",
-         "nome_popular":"AmigÃ£o",
+         "nome_popular":"Amigão",
          "local":"Campina Grande",
          "uf":"PB",
          "capacidade":25770
@@ -282,14 +282,14 @@
       },
       {
          "nome":"Estádio Universitário Pedro Pedrossian",
-         "nome_popular":"MorenÃ£o",
+         "nome_popular":"Morenão",
          "local":"Campo Grande",
          "uf":"MS",
          "capacidade":24000
       },
       {
          "nome":"Estádio Raimundo Sampaio",
-         "nome_popular":"IndependÃªncia",
+         "nome_popular":"Independência",
          "local":"Belo Horizonte",
          "uf":"MG",
          "capacidade":23018
@@ -303,7 +303,7 @@
       },
       {
          "nome":"Estádio Francisco Stédile",
-         "nome_popular":"CentenÃ¡rio",
+         "nome_popular":"Centenário",
          "local":"Caxias do Sul",
          "uf":"RS",
          "capacidade":22132
@@ -317,15 +317,15 @@
       },
       {
          "nome":"",
-         "nome_popular":"SÃ£o JanuÃ¡rio",
+         "nome_popular":"São Januário",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":21880
       },
       {
          "nome":"",
-         "nome_popular":"CanindÃ©",
-         "local":"SÃ£o Paulo",
+         "nome_popular":"Canindé",
+         "local":"São Paulo",
          "uf":"SP",
          "capacidade":21004
       },
@@ -338,7 +338,7 @@
       },
       {
          "nome":"",
-         "nome_popular":"BezerrÃ£o",
+         "nome_popular":"Bezerrão",
          "local":"Gama",
          "uf":"DF",
          "capacidade":20310
@@ -358,28 +358,28 @@
          "capacidade":20160
       },
       {
-         "nome":"EstÃ¡dio Joaquim Henrique Nogueira",
-         "nome_popular":"Arena do JacarÃ©",
+         "nome":"Estádio Joaquim Henrique Nogueira",
+         "nome_popular":"Arena do Jacaré",
          "local":"Sete Lagoas",
          "uf":"MG",
          "capacidade":20020
       },
       {
-         "nome":"EstÃ¡dio dos Ventos Uivantes",
-         "nome_popular":"EstÃ¡dio Luso-Brasileiro",
+         "nome":"Estádio dos Ventos Uivantes",
+         "nome_popular":"Estádio Luso-Brasileiro",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":20000
       },
       {
-         "nome":"EstÃ¡dio Doutor Adhemar de Barro",
+         "nome":"Estádio Doutor Adhemar de Barro",
          "nome_popular":"Arena da Fonte Luminosa",
          "local":"Araraquara",
          "uf":"SP",
          "capacidade":20000
       },
       {
-         "nome":"EstÃ¡dio Alfredo Jaconi",
+         "nome":"Estádio Alfredo Jaconi",
          "nome_popular":"Alfredo Jaconi",
          "local":"Caxias do Sul",
          "uf":"RS",
@@ -387,8 +387,8 @@
       },
       {
          "nome":"",
-         "nome_popular":"Heriberto HÃ¼lse",
-         "local":"CriciÃºma",
+         "nome_popular":"Heriberto Hülse",
+         "local":"Criciúma",
          "uf":"SC",
          "capacidade":19900
       },
@@ -402,55 +402,55 @@
       {
          "nome":"",
          "nome_popular":"Orlando Scarpelli",
-         "local":"FlorianÃ³polis",
+         "local":"Florianópolis",
          "uf":"SC",
          "capacidade":19584
       },
       {
          "nome":"",
-         "nome_popular":"LacerdÃ£o",
+         "nome_popular":"Lacerdão",
          "local":"Caruaru",
          "uf":"PE",
          "capacidade":19478
       },
       {
          "nome":"",
-         "nome_popular":"Novelli JÃºnior",
+         "nome_popular":"Novelli Júnior",
          "local":"Itu",
          "uf":"SP",
          "capacidade":18560
       },
       {
-         "nome":"EstÃ¡dio Doutor Francisco de Palma Travassos",
+         "nome":"Estádio Doutor Francisco de Palma Travassos",
          "nome_popular":"Palma Travassos",
-         "local":"RibeirÃ£o Preto",
+         "local":"Ribeirão Preto",
          "uf":"SP",
          "capacidade":18277
       },
       {
-         "nome":"EstÃ¡dio General Sylvio Raulino de Oliveira",
+         "nome":"Estádio General Sylvio Raulino de Oliveira",
          "nome_popular":"Raulino de Oliveira",
          "local":"Volta Redonda",
          "uf":"RJ",
          "capacidade":18230
       },
       {
-         "nome":"EstÃ¡dio BarÃ£o de Serra Negra",
-         "nome_popular":"BarÃ£o de Serra Negra",
+         "nome":"Estádio Barão de Serra Negra",
+         "nome_popular":"Barão de Serra Negra",
          "local":"Piracicaba",
          "uf":"SP",
          "capacidade":18000
       },
       {
-         "nome":"EstÃ¡dio Major JosÃ© Levy Sobrinho",
+         "nome":"Estádio Major José Levy Sobrinho",
          "nome_popular":"Major Levy Sobrinho",
          "local":"Limeira",
          "uf":"SP",
          "capacidade":18000
       },
       {
-         "nome":"EstÃ¡dio Ã�talo Del Cima",
-         "nome_popular":"EstÃ¡dio Ã�talo del Cima",
+         "nome":"Estádio Ã�talo Del Cima",
+         "nome_popular":"Estádio Ã�talo del Cima",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":18000
@@ -458,20 +458,20 @@
       {
          "nome":"",
          "nome_popular":"Luthero Lopes",
-         "local":"RondonÃ³polis",
+         "local":"Rondonópolis",
          "uf":"MT",
          "capacidade":18000
       },
       {
          "nome":"",
          "nome_popular":"Ressacada",
-         "local":"FlorianÃ³polis",
+         "local":"Florianópolis",
          "uf":"SC",
          "capacidade":17826
       },
       {
          "nome":"",
-         "nome_popular":"MoisÃ©s Lucarelli",
+         "nome_popular":"Moisés Lucarelli",
          "local":"Campinas",
          "uf":"SP",
          "capacidade":17728
@@ -485,15 +485,15 @@
       },
       {
          "nome":"",
-         "nome_popular":"TrapichÃ£o",
-         "local":"MaceiÃ³",
+         "nome_popular":"Trapichão",
+         "local":"Maceió",
          "uf":"AL",
          "capacidade":17126
       },
       {
          "nome":"",
          "nome_popular":"Nabi Abi Chedid",
-         "local":"BraganÃ§a Paulista",
+         "local":"Bragança Paulista",
          "uf":"SP",
          "capacidade":17022
       },
@@ -507,14 +507,14 @@
       {
          "nome":"",
          "nome_popular":"Anacleto Campanella",
-         "local":"SÃ£o Caetano do Sul",
+         "local":"São Caetano do Sul",
          "uf":"SP",
          "capacidade":16744
       },
       {
          "nome":"",
          "nome_popular":"Martins Pereira",
-         "local":"SÃ£o JosÃ© dos Campos",
+         "local":"São José dos Campos",
          "uf":"SP",
          "capacidade":16500
       },
@@ -527,21 +527,21 @@
       },
       {
          "nome":"",
-         "nome_popular":"AlfredÃ£o",
+         "nome_popular":"Alfredão",
          "local":"Bauru",
          "uf":"SP",
          "capacidade":16300
       },
       {
          "nome":"",
-         "nome_popular":"DÃ©cio Vitta",
+         "nome_popular":"Décio Vitta",
          "local":"Americana",
          "uf":"SP",
          "capacidade":16300
       },
       {
          "nome":"",
-         "nome_popular":"JÃ³ia da Princesa",
+         "nome_popular":"Jóia da Princesa",
          "local":"Feira de Santana",
          "uf":"BA",
          "capacidade":16274
@@ -549,14 +549,14 @@
       {
          "nome":"",
          "nome_popular":"Willie Davids",
-         "local":"MaringÃ¡",
+         "local":"Maringá",
          "uf":"PR",
          "capacidade":16226
       },
       {
          "nome":"",
          "nome_popular":"Curuzu",
-         "local":"BelÃ©m",
+         "local":"Belém",
          "uf":"PA",
          "capacidade":16200
       },
@@ -570,7 +570,7 @@
       {
          "nome":"",
          "nome_popular":"Dario Rodrigues Leite",
-         "local":"GuaratinguetÃ¡",
+         "local":"Guaratinguetá",
          "uf":"SP",
          "capacidade":16095
       },
@@ -583,14 +583,14 @@
       },
       {
          "nome":"",
-         "nome_popular":"Arena CondÃ¡",
-         "local":"ChapecÃ³",
+         "nome_popular":"Arena Condá",
+         "local":"Chapecó",
          "uf":"SC",
          "capacidade":15765
       },
       {
          "nome":"",
-         "nome_popular":"Arena BatistÃ£o",
+         "nome_popular":"Arena Batistão",
          "local":"Aracaju",
          "uf":"SE",
          "capacidade":15586
@@ -604,14 +604,14 @@
       },
       {
          "nome":"",
-         "nome_popular":"MelÃ£o",
+         "nome_popular":"Melão",
          "local":"Varginha",
          "uf":"MG",
          "capacidade":15471
       },
       {
          "nome":"",
-         "nome_popular":"GilbertÃ£o",
+         "nome_popular":"Gilbertão",
          "local":"Lins",
          "uf":"SP",
          "capacidade":15064
@@ -619,34 +619,34 @@
       {
          "nome":"",
          "nome_popular":"Bento de Abreu",
-         "local":"MarÃ­lia",
+         "local":"Marília",
          "uf":"SP",
          "capacidade":15010
       },
       {
          "nome":"",
          "nome_popular":"Alfredo Chiavegato",
-         "local":"JaguariÃºna",
+         "local":"Jaguariúna",
          "uf":"SP",
          "capacidade":15000
       },
       {
          "nome":"",
-         "nome_popular":"ArapucÃ£o",
-         "local":"JataÃ­",
+         "nome_popular":"Arapucão",
+         "local":"Jataí",
          "uf":"GO",
          "capacidade":15000
       },
       {
          "nome":"",
          "nome_popular":"Carlos Affini",
-         "local":"ParaguaÃ§u Paulista",
+         "local":"Paraguaçu Paulista",
          "uf":"SP",
          "capacidade":15000
       },
       {
          "nome":"",
-         "nome_popular":"FumeirÃ£o",
+         "nome_popular":"Fumeirão",
          "local":"Arapiraca",
          "uf":"AL",
          "capacidade":15000
@@ -660,76 +660,76 @@
       },
       {
          "nome":"",
-         "nome_popular":"JosÃ© Maria Campos Maia",
+         "nome_popular":"José Maria Campos Maia",
          "local":"Mirassol",
          "uf":"SP",
          "capacidade":15000
       },
       {
          "nome":"",
-         "nome_popular":"MoacyrzÃ£o",
-         "local":"MacaÃ©",
+         "nome_popular":"Moacyrzão",
+         "local":"Macaé",
          "uf":"RJ",
          "capacidade":15000
       },
       {
          "nome":"",
          "nome_popular":"Maria Teresa Breda",
-         "local":"OlÃ­mpia",
+         "local":"Olímpia",
          "uf":"SP",
          "capacidade":15000
       },
       {
          "nome":"",
-         "nome_popular":"VermelhÃ£o da Serra",
+         "nome_popular":"Vermelhão da Serra",
          "local":"Passo Fundo",
          "uf":"RS",
          "capacidade":15000
       },
       {
          "nome":"",
-         "nome_popular":"Antonio Lins Ribeiro GuimarÃ£es",
-         "local":"Santa BÃ¡rbara d'Oeste",
+         "nome_popular":"Antonio Lins Ribeiro Guimarães",
+         "local":"Santa Bárbara d'Oeste",
          "uf":"SP",
          "capacidade":14913
       },
       {
          "nome":"",
-         "nome_popular":"FrasqueirÃ£o",
+         "nome_popular":"Frasqueirão",
          "local":"Natal",
          "uf":"RN",
          "capacidade":14740
       },
       {
-         "nome":"EstÃ¡dio Municipal Doutor JosÃ© Lancha Filho",
+         "nome":"Estádio Municipal Doutor José Lancha Filho",
          "nome_popular":"Lancha Filho",
          "local":"Franca",
          "uf":"SP",
          "capacidade":14686
       },
       {
-         "nome":"EstÃ¡dio Municipal Francisco Ribeiro Nogueira",
+         "nome":"Estádio Municipal Francisco Ribeiro Nogueira",
          "nome_popular":"Francisco Nogueira Filho",
          "local":"Mogi das Cruzes",
          "uf":"SP",
          "capacidade":14384
       },
       {
-         "nome":"EstÃ¡dio AnÃ­sio Haddad",
-         "nome_popular":"AnÃ­sio Haddad",
-         "local":"SÃ£o JosÃ© do Rio Preto",
+         "nome":"Estádio Anísio Haddad",
+         "nome_popular":"Anísio Haddad",
+         "local":"São José do Rio Preto",
          "uf":"SP",
          "capacidade":14014
       },
       {
-         "nome":"EstÃ¡dio Doutor Jayme Cintra",
+         "nome":"Estádio Doutor Jayme Cintra",
          "nome_popular":"Jayme Cintra",
-         "local":"JundiaÃ­",
+         "local":"Jundiaí",
          "uf":"SP",
          "capacidade":13905
       },
       {
-         "nome":"EstÃ¡dio Municipal Walter Ribeiro",
+         "nome":"Estádio Municipal Walter Ribeiro",
          "nome_popular":"Walter Ribeiro",
          "local":"Sorocaba",
          "uf":"SP",
@@ -743,36 +743,36 @@
          "capacidade":13700
       },
       {
-         "nome":"EstÃ¡dio Milton de Souza CorrÃªa",
-         "nome_popular":"ZerÃ£o",
-         "local":"MacapÃ¡",
+         "nome":"Estádio Milton de Souza Corrêa",
+         "nome_popular":"Zerão",
+         "local":"Macapá",
          "uf":"AP",
          "capacidade":13680
       },
       {
-         "nome":"EstÃ¡dio Giulite Coutinho",
+         "nome":"Estádio Giulite Coutinho",
          "nome_popular":"Giulite Coutinho",
          "local":"Mesquita",
          "uf":"RJ",
          "capacidade":13544
       },
       {
-         "nome":"EstÃ¡dio OlÃ­mpico Monumental",
-         "nome_popular":"EstÃ¡dio OlÃ­mpico",
-         "local":"GoiÃ¢nia",
+         "nome":"Estádio Olímpico Monumental",
+         "nome_popular":"Estádio Olímpico",
+         "local":"Goiânia",
          "uf":"GO",
          "capacidade":13500
       },
       {
-         "nome":"EstÃ¡dio Municipal 1Â° de Maio",
+         "nome":"Estádio Municipal 1º de Maio",
          "nome_popular":"Primeiro de Maio",
-         "local":"SÃ£o Bernardo do Campo",
+         "local":"São Bernardo do Campo",
          "uf":"SP",
          "capacidade":13440
       },
       {
          "nome":"",
-         "nome_popular":"OtacÃ­lia PatrÃ­cio Arroyo",
+         "nome_popular":"Otacília Patrício Arroyo",
          "local":"Monte Azul Paulista",
          "uf":"SP",
          "capacidade":13100
@@ -800,42 +800,42 @@
       },
       {
          "nome":"",
-         "nome_popular":"Zezinho MagalhÃ£es",
-         "local":"JaÃº",
+         "nome_popular":"Zezinho Magalhães",
+         "local":"Jaú",
          "uf":"SP",
          "capacidade":12978
       },
       {
-         "nome":"EstÃ¡dio Doutor Jorge Ismael de Biasi",
+         "nome":"Estádio Doutor Jorge Ismael de Biasi",
          "nome_popular":"Jorge Ismael de Biasi",
          "local":"Novo Horizonte",
          "uf":"SP",
          "capacidade":12872
       },
       {
-         "nome":"EstÃ¡dio Dr. GetÃºlio Dornelles Vargas",
+         "nome":"Estádio Dr. Getúlio Dornelles Vargas",
          "nome_popular":"Montanha dos Vinhedos",
-         "local":"Bento GonÃ§alves",
+         "local":"Bento Gonçalves",
          "uf":"RS",
          "capacidade":12859
       },
       {
-         "nome":"EstÃ¡dio Municipal 14 de Dezembro",
+         "nome":"Estádio Municipal 14 de Dezembro",
          "nome_popular":"14 de Dezembro",
          "local":"Toledo",
          "uf":"PR",
          "capacidade":12500
       },
       {
-         "nome":"EstÃ¡dio JosÃ© Roriz Aguiar",
+         "nome":"Estádio José Roriz Aguiar",
          "nome_popular":"Serra do Lago",
-         "local":"LuziÃ¢nia",
+         "local":"Luziânia",
          "uf":"GO",
          "capacidade":12300
       },
       {
-         "nome":"EstÃ¡dio Municipal CornÃ©lio de Barros",
-         "nome_popular":"CornÃ©lio de Barros",
+         "nome":"Estádio Municipal Cornélio de Barros",
+         "nome_popular":"Cornélio de Barros",
          "local":"Salgueiro",
          "uf":"PE",
          "capacidade":12070
@@ -849,22 +849,22 @@
       },
       {
          "nome":"Estádio Caio Martins",
-         "nome_popular":"EstÃ¡dio Caio Martins",
-         "local":"NiterÃ³i",
+         "nome_popular":"Estádio Caio Martins",
+         "local":"Niterói",
          "uf":"RJ",
          "capacidade":12000
       },
       {
          "nome":"Estádio Evandro Almeida",
-         "nome_popular":"BaenÃ£o",
-         "local":"BelÃ©m",
+         "nome_popular":"Baenão",
+         "local":"Belém",
          "uf":"PA",
          "capacidade":12000
       },
       {
          "nome":"Estádio Alfredo Schürig",
-         "nome_popular":"Parque SÃ£o Jorge",
-         "local":"SÃ£o Paulo",
+         "nome_popular":"Parque São Jorge",
+         "local":"São Paulo",
          "uf":"SP",
          "capacidade":12000
       },
@@ -876,50 +876,50 @@
          "capacidade":11784
       },
       {
-         "nome":"EstÃ¡dio Municipal Prefeito JosÃ© Liberatti",
-         "nome_popular":"JosÃ© Liberatti",
+         "nome":"Estádio Municipal Prefeito José Liberatti",
+         "nome_popular":"José Liberatti",
          "local":"Osasco",
          "uf":"SP",
          "capacidade":11780
       },
       {
          "nome":"Estádio Municipal Lomanto Júnior",
-         "nome_popular":"LomantÃ£o",
-         "local":"VitÃ³ria da Conquista",
+         "nome_popular":"Lomantão",
+         "local":"Vitória da Conquista",
          "uf":"BA",
          "capacidade":11538
       },
       {
          "nome":"Estádio Municipal Nhozinho Santos",
          "nome_popular":"Nhozinho Santos",
-         "local":"SÃ£o LuÃ­s",
+         "local":"São Luís",
          "uf":"MA",
          "capacidade":11429
       },
       {
          "nome":"Estádio Municipal Adhemar de Barros",
-         "nome_popular":"AdhermazÃ£o",
-         "local":"AraÃ§atuba",
+         "nome_popular":"Adhermazão",
+         "local":"Araçatuba",
          "uf":"SP",
          "capacidade":11274
       },
       {
          "nome":"Estádio Municipal Antônio de Figueiredo Carneiro",
-         "nome_popular":"CarneirÃ£o",
-         "local":"VitÃ³ria de Santo AntÃ£o",
+         "nome_popular":"Carneirão",
+         "local":"Vitória de Santo Antão",
          "uf":"PE",
          "capacidade":10911
       },
       {
          "nome":"Estádio Jonas Ferreira Alves Duarte",
          "nome_popular":"Jonas Duarte",
-         "local":"AnÃ¡polis",
+         "local":"Anápolis",
          "uf":"GO",
          "capacidade":10707
       },
       {
          "nome":"Estádio Germano Krüger",
-         "nome_popular":"Germano KrÃ¼ger",
+         "nome_popular":"Germano Krüger",
          "local":"Ponta Grossa",
          "uf":"PR",
          "capacidade":10632
@@ -933,43 +933,43 @@
       },
       {
          "nome":"Estádio Olímpico Horácio Domingos de Sousa",
-         "nome_popular":"DomingÃ£o",
+         "nome_popular":"Domingão",
          "local":"Horizonte",
          "uf":"CE",
          "capacidade":10400
       },
       {
          "nome":"Estádio Estadual Governador Antônio Carlos Valadares",
-         "nome_popular":"VavazÃ£o",
+         "nome_popular":"Vavazão",
          "local":"Maruim",
          "uf":"SE",
          "capacidade":10235
       },
       {
          "nome":"Estádio Municipal Sócrates Stamato",
-         "nome_popular":"SÃ³crates Stamato",
+         "nome_popular":"Sócrates Stamato",
          "local":"Bebedouro",
          "uf":"SP",
          "capacidade":10200
       },
       {
          "nome":"Estádio Senador Zeze Perrella",
-         "nome_popular":"Arena do CalÃ§ado",
+         "nome_popular":"Arena do Calçado",
          "local":"Nova Serrana",
          "uf":"MG",
          "capacidade":10000
       },
       {
          "nome":"Estádio Presidente Érton Coelho Queiroz",
-         "nome_popular":"Ã‰rton Coelho Queiroz",
+         "nome_popular":"Érton Coelho Queiroz",
          "local":"Curitiba",
          "uf":"PR",
          "capacidade":10000
       },
       {
          "nome":"Estádio Municipal Professor Luís Augusto de Oliveira",
-         "nome_popular":"LuÃ­s Augusto de Oliveira",
-         "local":"SÃ£o Carlos",
+         "nome_popular":"Luís Augusto de Oliveira",
+         "local":"São Carlos",
          "uf":"SP",
          "capacidade":10000
       },
@@ -996,13 +996,13 @@
       },
       {
          "nome":"Estádio Municipal Frei Epifânio D'Abadia",
-         "nome_popular":"Frei EpifÃ¢nio",
+         "nome_popular":"Frei Epifânio",
          "local":"Imperatriz",
          "uf":"MA",
          "capacidade":10000
       },
       {
-         "nome":"EstÃ¡dio Nilton Santos",
+         "nome":"Estádio Nilton Santos",
          "nome_popular":"Nilton Santos",
          "local":"Palmas",
          "uf":"TO",
@@ -1010,27 +1010,27 @@
       },
       {
          "nome":"Estádio Etelvino Mendonça",
-         "nome_popular":"Presidente MÃ©dici",
+         "nome_popular":"Presidente Médici",
          "local":"Itabaiana",
          "uf":"SE",
          "capacidade":10000
       },
       {
-         "nome":"EstÃ¡dio JoÃ£o Ribeiro",
-         "nome_popular":"RibeirÃ£o",
-         "local":"TocantinÃ³polis",
+         "nome":"Estádio João Ribeiro",
+         "nome_popular":"Ribeirão",
+         "local":"Tocantinópolis",
          "uf":"TO",
          "capacidade":10000
       },
       {
-         "nome":"EstÃ¡dio Mauro Sampaio",
-         "nome_popular":"RomeirÃ£o",
+         "nome":"Estádio Mauro Sampaio",
+         "nome_popular":"Romeirão",
          "local":"Juazeiro do Norte",
          "uf":"CE",
          "capacidade":10000
       },
       {
-         "nome":"EstÃ¡dio Municipal Passo das Emas",
+         "nome":"Estádio Municipal Passo das Emas",
          "nome_popular":"Passo das Emas",
          "local":"Lucas do Rio Verde",
          "uf":"MT",
