@@ -11,14 +11,18 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToMany;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 @Entity
 @Table(name = "tb_partida")
 public class PartidaEntity {
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "cd_partida")
@@ -55,6 +59,91 @@ public class PartidaEntity {
 	@ManyToMany(mappedBy = "reservasVisitante", cascade = CascadeType.ALL)
 	@JsonManagedReference
 	private List<JogadorEntity> reservasVisitante;
+
+	@OneToMany(mappedBy = "partida")
+	@JsonManagedReference
+	private List<GolEntity> gols;
+
+	@OneToMany(mappedBy = "partida")
+	@JsonManagedReference
+	private List<CartaoEntity> cartoes;
+
+	@ManyToOne
+	@JoinColumn(name = "cd_rodada")
+	@JsonIgnore
+	private RodadaEntity rodada;
+
+	public List<GolEntity> getGols() {
+		return gols;
+	}
+
+	public void setGols(List<GolEntity> gols) {
+		this.gols = gols;
+	}
+
+	public List<CartaoEntity> getCartoes() {
+		return cartoes;
+	}
+
+	public void setCartoes(List<CartaoEntity> cartoes) {
+		this.cartoes = cartoes;
+	}
+
+	public RodadaEntity getRodada() {
+		return rodada;
+	}
+
+	public void setRodada(RodadaEntity rodada) {
+		this.rodada = rodada;
+	}
+
+	public TimeEntity getVisitante() {
+		return visitante;
+	}
+
+	public void setVisitante(TimeEntity visitante) {
+		this.visitante = visitante;
+	}
+
+	public TimeEntity getMandante() {
+		return mandante;
+	}
+
+	public void setMandante(TimeEntity mandante) {
+		this.mandante = mandante;
+	}
+
+	public List<JogadorEntity> getTitularesMandante() {
+		return titularesMandante;
+	}
+
+	public void setTitularesMandante(List<JogadorEntity> titularesMandante) {
+		this.titularesMandante = titularesMandante;
+	}
+
+	public List<JogadorEntity> getReservasMandante() {
+		return reservasMandante;
+	}
+
+	public void setReservasMandante(List<JogadorEntity> reservasMandante) {
+		this.reservasMandante = reservasMandante;
+	}
+
+	public List<JogadorEntity> getTitularesVisitante() {
+		return titularesVisitante;
+	}
+
+	public void setTitularesVisitante(List<JogadorEntity> titularesVisitante) {
+		this.titularesVisitante = titularesVisitante;
+	}
+
+	public List<JogadorEntity> getReservasVisitante() {
+		return reservasVisitante;
+	}
+
+	public void setReservasVisitante(List<JogadorEntity> reservasVisitante) {
+		this.reservasVisitante = reservasVisitante;
+	}
 
 	public Long getId() {
 		return id;

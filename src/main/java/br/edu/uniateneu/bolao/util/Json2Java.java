@@ -128,7 +128,7 @@ public class Json2Java {
 				Jogador jogador = (Jogador) object;
 				JogadorEntity jogadorEntity = null;
 				jogadorEntity = jogador.converteJogadorParaEntidade();
-				jogadorEntity.setPosicao(posicaoDAO.getOne(jogador.getPosicao().getId()));
+				jogadorEntity.setPosicao(posicaoDAO.getOne(jogador.getPosicao()));
 				//jogador.setIdade(idade);
 				//jogador.setPeso(peso);
 				//jogador.setNumeroCamisa(numeroCamisa);

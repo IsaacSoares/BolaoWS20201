@@ -9,7 +9,7 @@ public class Time {
 	private String nome;
 	private String abreviacao;
 	private Integer posicao;
-	private List<String> escudos;
+	private Escudo escudos;
 	public Long getId() {
 		return id;
 	}
@@ -34,10 +34,10 @@ public class Time {
 	public void setPosicao(Integer posicao) {
 		this.posicao = posicao;
 	}
-	public List<String> getEscudos() {
+	public Escudo getEscudos() {
 		return escudos;
 	}
-	public void setEscudos(List<String> escudos) {
+	public void setEscudos(Escudo escudos) {
 		this.escudos = escudos;
 	}
 
@@ -45,7 +45,8 @@ public class Time {
 		TimeEntity timeEntity = new TimeEntity();
 		timeEntity.setNome(this.nome);
 		timeEntity.setSigla(this.abreviacao);
-		timeEntity.setEscudo(this.escudos.get(0));
+		timeEntity.setEscudo(this.escudos.getTrintaPorTrinta());
+		timeEntity.setIdGlobo(this.id);
 		//timeEntity.setEstadio(this);
 		return timeEntity;
 	}

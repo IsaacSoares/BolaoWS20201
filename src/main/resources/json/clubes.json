@@ -4,9 +4,9 @@
       "nome":"Outros",
       "abreviacao":"OUT",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Outros"
    },
@@ -15,9 +15,9 @@
       "nome":"Ipatinga",
       "abreviacao":"IPA",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Ipatinga"
    },
@@ -26,9 +26,9 @@
       "nome":"Cuiabá",
       "abreviacao":"CUI",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Cuiabá"
    },
@@ -37,9 +37,9 @@
       "nome":"Icasa",
       "abreviacao":"ICA",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Icasa"
    },
@@ -48,9 +48,9 @@
       "nome":"Oeste",
       "abreviacao":"OES",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Oeste"
    },
@@ -59,9 +59,9 @@
       "nome":"Duque de Caxias",
       "abreviacao":"DUQ",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Duque de Caxias"
    },
@@ -70,9 +70,9 @@
       "nome":"Americana",
       "abreviacao":"AME",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Americana"
    },
@@ -81,9 +81,9 @@
       "nome":"Grêmio Prudente",
       "abreviacao":"PRU",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Grêmio Prudente"
    },
@@ -92,9 +92,9 @@
       "nome":"Luverdense",
       "abreviacao":"LUV",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Luverdense"
    },
@@ -104,9 +104,9 @@
       "abreviacao":"FLA",
       "posicao":1,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-30.png"
       },
       "nome_fantasia":"Flamengo"
    },
@@ -116,9 +116,9 @@
       "abreviacao":"BOT",
       "posicao":17,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-30.png"
       },
       "nome_fantasia":"Botafogo"
    },
@@ -128,9 +128,9 @@
       "abreviacao":"COR",
       "posicao":8,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_30.png"
       },
       "nome_fantasia":"Corinthians"
    },
@@ -140,9 +140,9 @@
       "abreviacao":"BAH",
       "posicao":9,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_45x45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_30x30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_45x45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_30x30.png"
       },
       "nome_fantasia":"Bahia"
    },
@@ -152,9 +152,9 @@
       "abreviacao":"FLU",
       "posicao":16,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_45x45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2015/01/12/Fluminense-escudo.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_45x45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2015/01/12/Fluminense-escudo.png"
       },
       "nome_fantasia":"Fluminense"
    },
@@ -164,9 +164,9 @@
       "abreviacao":"VAS",
       "posicao":11,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-30.png"
       },
       "nome_fantasia":"Vasco"
    },
@@ -176,9 +176,9 @@
       "abreviacao":"PAL",
       "posicao":2,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_45x45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_30x30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_45x45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_30x30.png"
       },
       "nome_fantasia":"Palmeiras"
    },
@@ -188,9 +188,9 @@
       "abreviacao":"SAO",
       "posicao":5,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_45x45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_30x30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_45x45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_30x30.png"
       },
       "nome_fantasia":"São Paulo"
    },
@@ -200,9 +200,9 @@
       "abreviacao":"SAN",
       "posicao":3,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_45x45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_30x30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_45x45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_30x30.png"
       },
       "nome_fantasia":"Santos"
    },
@@ -211,9 +211,9 @@
       "nome":"Portuguesa",
       "abreviacao":"POR",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Portuguesa"
    },
@@ -222,9 +222,9 @@
       "nome":"Guarani",
       "abreviacao":"GUA",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Guarani"
    },
@@ -233,9 +233,9 @@
       "nome":"Bragantino",
       "abreviacao":"BRA",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Bragantino"
    },
@@ -245,9 +245,9 @@
       "abreviacao":"ATL",
       "posicao":12,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo45px.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo30px.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo45px.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo30px.png"
       },
       "nome_fantasia":"Atlético-MG"
    },
@@ -257,9 +257,9 @@
       "abreviacao":"CRU",
       "posicao":15,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_30.png"
       },
       "nome_fantasia":"Cruzeiro"
    },
@@ -269,9 +269,9 @@
       "abreviacao":"GRE",
       "posicao":4,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_45x45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_30x30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_45x45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_30x30.png"
       },
       "nome_fantasia":"Grêmio"
    },
@@ -281,9 +281,9 @@
       "abreviacao":"INT",
       "posicao":7,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter30.png"
       },
       "nome_fantasia":"Internacional"
    },
@@ -292,9 +292,9 @@
       "nome":"Juventude",
       "abreviacao":"JUV",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Juventude"
    },
@@ -303,9 +303,9 @@
       "nome":"Vitória",
       "abreviacao":"VIT",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Vitória"
    },
@@ -314,9 +314,9 @@
       "nome":"Criciúma",
       "abreviacao":"CRI",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Criciúma"
    },
@@ -325,9 +325,9 @@
       "nome":"Paraná",
       "abreviacao":"PAR",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Paraná"
    },
@@ -337,9 +337,9 @@
       "abreviacao":"GOI",
       "posicao":10,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_45px.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_30px.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_45px.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_30px.png"
       },
       "nome_fantasia":"Goiás"
    },
@@ -348,9 +348,9 @@
       "nome":"Paysandu",
       "abreviacao":"PAY",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Paysandu"
    },
@@ -359,9 +359,9 @@
       "nome":"Sport",
       "abreviacao":"SPO",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Sport"
    },
@@ -371,9 +371,9 @@
       "abreviacao":"ATL",
       "posicao":6,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-45x45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-30x30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-45x45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-30x30.png"
       },
       "nome_fantasia":"Athlético-PR"
    },
@@ -382,9 +382,9 @@
       "nome":"Coritiba",
       "abreviacao":"COR",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Coritiba"
    },
@@ -393,9 +393,9 @@
       "nome":"Botafogo-SP",
       "abreviacao":"BOT",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Botafogo-SP"
    },
@@ -404,9 +404,9 @@
       "nome":"Ponte Preta",
       "abreviacao":"PON",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Ponte Preta"
    },
@@ -415,9 +415,9 @@
       "nome":"Boa Esporte",
       "abreviacao":"BEC",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Boa Esporte"
    },
@@ -426,9 +426,9 @@
       "nome":"Santo André",
       "abreviacao":"SAN",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Santo André"
    },
@@ -437,9 +437,9 @@
       "nome":"São Bento",
       "abreviacao":"SBE",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"São Bento"
    },
@@ -448,9 +448,9 @@
       "nome":"Brasil de Pelotas",
       "abreviacao":"BRA",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Brasil de Pelotas"
    },
@@ -460,9 +460,9 @@
       "abreviacao":"AVA",
       "posicao":20,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-45x45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-30x30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-45x45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-30x30.png"
       },
       "nome_fantasia":"Avaí"
    },
@@ -472,9 +472,9 @@
       "abreviacao":"CHA",
       "posicao":19,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-145.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-130.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-145.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-130.png"
       },
       "nome_fantasia":"Chapecoense"
    },
@@ -483,9 +483,9 @@
       "nome":"Figueirense",
       "abreviacao":"FIG",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Figueirense"
    },
@@ -494,9 +494,9 @@
       "nome":"Joinville",
       "abreviacao":"JEC",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Joinville"
    },
@@ -505,9 +505,9 @@
       "nome":"Londrina",
       "abreviacao":"LON",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Londrina"
    },
@@ -516,9 +516,9 @@
       "nome":"Operário-PR",
       "abreviacao":"OPE",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Operário-PR"
    },
@@ -527,9 +527,9 @@
       "nome":"América-MG",
       "abreviacao":"AME",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"América-MG"
    },
@@ -538,9 +538,9 @@
       "nome":"CRB",
       "abreviacao":"CRB",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"CRB"
    },
@@ -550,9 +550,9 @@
       "abreviacao":"CSA",
       "posicao":18,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_30.png"
       },
       "nome_fantasia":"CSA"
    },
@@ -561,9 +561,9 @@
       "nome":"ASA Arapiraca",
       "abreviacao":"ASA",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"ASA Arapiraca"
    },
@@ -572,9 +572,9 @@
       "nome":"Náutico",
       "abreviacao":"NAU",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Náutico"
    },
@@ -583,9 +583,9 @@
       "nome":"Santa Cruz",
       "abreviacao":"STC",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Santa Cruz"
    },
@@ -594,9 +594,9 @@
       "nome":"ABC",
       "abreviacao":"ABC",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"ABC"
    },
@@ -605,9 +605,9 @@
       "nome":"América-RN",
       "abreviacao":"AME",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"América-RN"
    },
@@ -617,9 +617,9 @@
       "abreviacao":"CEA",
       "posicao":14,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-45x45.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-30x30.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-45x45.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-30x30.png"
       },
       "nome_fantasia":"Ceará"
    },
@@ -629,9 +629,9 @@
       "abreviacao":"FOR",
       "posicao":13,
       "escudos":{  
-         "60x60":"https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-         "45x45":"https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-45px.png",
-         "30x30":"https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-30px.png"
+         "sessentaPorSessenta":"https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+         "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-45px.png",
+         "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-30px.png"
       },
       "nome_fantasia":"Fortaleza"
    },
@@ -640,9 +640,9 @@
       "nome":"Moto Club",
       "abreviacao":"MOT",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Moto Club"
    },
@@ -651,9 +651,9 @@
       "nome":"Sampaio Corrêa",
       "abreviacao":"SAM",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Sampaio Corrêa"
    },
@@ -662,9 +662,9 @@
       "nome":"Remo",
       "abreviacao":"REM",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Remo"
    },
@@ -673,9 +673,9 @@
       "nome":"Atlético-GO",
       "abreviacao":"ATL",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Atlético-GO"
    },
@@ -684,9 +684,9 @@
       "nome":"Vila Nova",
       "abreviacao":"VIL",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Vila Nova"
    },
@@ -695,9 +695,9 @@
       "nome":"São Caetano",
       "abreviacao":"SAO",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"São Caetano"
    },
@@ -706,9 +706,9 @@
       "nome":"Brasiliense",
       "abreviacao":"BRA",
       "escudos":{  
-         "60x60":"",
-         "45x45":"",
-         "30x30":""
+         "sessentaPorSessenta":"",
+         "quarentaECincoPorquarentaECinco":"",
+         "trintaPorTrinta":""
       },
       "nome_fantasia":"Brasiliense"
    }

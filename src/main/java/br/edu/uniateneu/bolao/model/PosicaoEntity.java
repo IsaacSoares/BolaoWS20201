@@ -18,6 +18,16 @@ public class PosicaoEntity {
 	private String nome;
 	@Column(name = "nm_abreviacao")
 	private String abreviacao;
+	@Column(name = "cd_globo")
+	private Long cdGlobo;
+	
+	public Long getCdGlobo() {
+		return cdGlobo;
+	}
+
+	public void setCdGlobo(Long cdGlobo) {
+		this.cdGlobo = cdGlobo;
+	}
 
 	public Long getId() {
 		return id;

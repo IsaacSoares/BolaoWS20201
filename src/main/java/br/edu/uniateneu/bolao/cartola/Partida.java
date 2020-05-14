@@ -1,5 +1,8 @@
 package br.edu.uniateneu.bolao.cartola;
 
+import br.edu.uniateneu.bolao.model.PartidaEntity;
+import br.edu.uniateneu.bolao.util.StringUtil;
+
 public class Partida {
 	private Long id;
 	private String data_realizacao;
@@ -70,6 +73,14 @@ public class Partida {
 	}
 	public void setTransmissao(Transmissao transmissao) {
 		this.transmissao = transmissao;
+	}
+	public PartidaEntity convertePartidaParaEntidade() {
+		PartidaEntity entidade = new PartidaEntity();
+		entidade.setPlacarMandante(this.placar_oficial_mandante);
+		entidade.setPlacarVisitante(this.placar_oficial_visitante);
+		entidade.setLocal(this.sede.getNome_popular());
+		entidade.setData(StringUtil.converteStringToDate(this.data_realizacao));
+		return entidade;
 	}
     
 }

@@ -16,15 +16,14 @@ import com.google.gson.Gson;
 
 import br.edu.uniateneu.bolao.cartola.Clubes;
 import br.edu.uniateneu.bolao.cartola.Time;
-import br.edu.uniateneu.bolao.model.JogadorEntity;
 import br.edu.uniateneu.bolao.model.ResponseModel;
 import br.edu.uniateneu.bolao.model.TimeEntity;
 import br.edu.uniateneu.bolao.repository.TimeRepository;
+import br.edu.uniateneu.bolao.util.Constantes;
 
 @RestController
 @RequestMapping("/times")
 public class TimeService {
-	private static final String PATH_JSON = "C:\\Ateneu\\2020.1\\webservice\\workspace\\bolaows20201\\src\\main\\resources\\json\\";
 
 	@Autowired
 	private TimeRepository timeRepository;
@@ -33,7 +32,7 @@ public class TimeService {
 	public @ResponseBody ResponseModel preenche() {
 		Gson gson = new Gson();
 		try {
-			File f = new File(PATH_JSON + "clubes.json");
+			File f = new File(Constantes.PATH_JSON + "clubes.json");
 
 			BufferedReader br = new BufferedReader(new FileReader(f));
 			String jsonTxt = "";

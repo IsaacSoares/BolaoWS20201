@@ -9,8 +9,8 @@ public class Jogador {
 	private String foto;
 	private Long atleta_id;
 	private Long rodada_id;
-	private Integer clube_id;
-	private Posicao posicao;
+	private Long clube_id;
+	private Long posicao_id;
 	private Long status_id;
 	private Double pontos_num;
 	private Double preco_num;
@@ -54,17 +54,17 @@ public class Jogador {
 	public void setRodada_id(Long rodada_id) {
 		this.rodada_id = rodada_id;
 	}
-	public Integer getClube_id() {
+	public Long getClube_id() {
 		return clube_id;
 	}
-	public void setClube_id(Integer clube_id) {
+	public void setClube_id(Long clube_id) {
 		this.clube_id = clube_id;
 	}
-	public Posicao getPosicao() {
-		return posicao;
+	public Long getPosicao() {
+		return posicao_id;
 	}
-	public void setPosicao(Posicao posicao) {
-		this.posicao = posicao;
+	public void setPosicao(Long posicao) {
+		this.posicao_id = posicao;
 	}
 	public Long getStatus_id() {
 		return status_id;
@@ -113,6 +113,7 @@ public class Jogador {
 		JogadorEntity jogador = new JogadorEntity();
 		jogador.setNome(this.nome);
 		jogador.setApelido(this.apelido);
+		//jogador.setTime(TimeEntity);
 		return jogador;
 	}
 }

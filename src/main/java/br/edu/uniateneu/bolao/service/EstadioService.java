@@ -17,12 +17,12 @@ import br.edu.uniateneu.bolao.cartola.Estadios;
 import br.edu.uniateneu.bolao.model.EstadioEntity;
 import br.edu.uniateneu.bolao.model.ResponseModel;
 import br.edu.uniateneu.bolao.repository.EstadioRepository;
+import br.edu.uniateneu.bolao.util.Constantes;
 
 @RestController
 @RequestMapping("/estadios")
 public class EstadioService {
 	
-	private static final String PATH_JSON = "C:\\Ateneu\\2020.1\\webservice\\workspace\\bolaows20201\\src\\main\\resources\\json\\";
 	@Autowired
 	private EstadioRepository estadioRepository;
 	
@@ -30,7 +30,7 @@ public class EstadioService {
 	public ResponseModel preenche() {
 		Gson gson = new Gson();
 		try {
-			File f = new File(PATH_JSON + "estadios.json");
+			File f = new File(Constantes.PATH_JSON + "estadios.json");
 
 			BufferedReader br = new BufferedReader(new FileReader(f));
 			String jsonTxt = "";
