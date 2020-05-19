@@ -1,11 +1,15 @@
 package br.edu.uniateneu.bolao.model;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.OneToOne;
 import javax.persistence.Table;
+
 
 @Entity
 @Table(name="tb_time")
@@ -20,10 +24,21 @@ public class TimeEntity {
 	private String estado;
 	@Column(name="nm_escudo")
 	private String escudo;
-	@Column(name="nm_estadio")
-	private String estadio;
+	@OneToOne(cascade = CascadeType.ALL)
+	@JoinColumn(name = "cd_estadio", nullable = true)
+	private EstadioEntity estadio;
 	@Column(name="nm_sigla")
 	private String sigla;
+	@Column(name="cd_globo")
+	private Long idGlobo;
+	
+	
+	public Long getIdGlobo() {
+		return idGlobo;
+	}
+	public void setIdGlobo(Long idGlobo) {
+		this.idGlobo = idGlobo;
+	}
 	public Long getId() {
 		return id;
 	}
@@ -48,10 +63,10 @@ public class TimeEntity {
 	public void setEscudo(String escudo) {
 		this.escudo = escudo;
 	}
-	public String getEstadio() {
+	public EstadioEntity getEstadio() {
 		return estadio;
 	}
-	public void setEstadio(String estadio) {
+	public void setEstadioEntity(EstadioEntity estadio) {
 		this.estadio = estadio;
 	}
 	public String getSigla() {

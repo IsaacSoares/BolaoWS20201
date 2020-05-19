@@ -11,10 +11,10 @@ import javax.persistence.Table;
 @Table(name = "tb_rodada")
 public class RodadaEntity {
 	@Id
-	@GeneratedValue(strategy=GenerationType.AUTO)
-	@Column(name="cd_rodada")
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "cd_rodada")
 	private long id;
-	
+
 	public long getId() {
 		return id;
 	}
@@ -22,7 +22,8 @@ public class RodadaEntity {
 	public void setId(long id) {
 		this.id = id;
 	}
-	@Column(name="nm_rodada")
+
+	@Column(name = "nm_rodada")
 	private Integer numero;
 
 	public Integer getNumero() {
@@ -33,14 +34,13 @@ public class RodadaEntity {
 		this.numero = numero;
 	}
 
-	/*@OneToMany(mappedBy = "rodada",cascade = CascadeType.ALL, fetch = FetchType.LAZY)
-	private List<PartidaEntity> partidas;
-
-	public List<PartidaEntity> getPartidas() {
-		return partidas;
-	}
-
-	public void setPartidas(List<PartidaEntity> partidas) {
-		this.partidas = partidas;
-	}*/
+	/*
+	 * @OneToMany(mappedBy = "rodada",cascade = CascadeType.ALL, fetch =
+	 * FetchType.LAZY) private List<PartidaEntity> partidas;
+	 * 
+	 * public List<PartidaEntity> getPartidas() { return partidas; }
+	 * 
+	 * public void setPartidas(List<PartidaEntity> partidas) { this.partidas =
+	 * partidas; }
+	 */
 }

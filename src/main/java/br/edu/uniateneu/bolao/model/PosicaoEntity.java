@@ -13,17 +13,27 @@ public class PosicaoEntity {
 	@Column(name = "cd_posicao")
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
-	private int id;
+	private Long id;
 	@Column(name = "nm_posicao")
 	private String nome;
 	@Column(name = "nm_abreviacao")
 	private String abreviacao;
+	@Column(name = "cd_globo")
+	private Long cdGlobo;
+	
+	public Long getCdGlobo() {
+		return cdGlobo;
+	}
 
-	public int getId() {
+	public void setCdGlobo(Long cdGlobo) {
+		this.cdGlobo = cdGlobo;
+	}
+
+	public Long getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
