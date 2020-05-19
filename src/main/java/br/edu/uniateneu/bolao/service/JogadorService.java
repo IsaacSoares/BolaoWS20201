@@ -3,9 +3,11 @@ package br.edu.uniateneu.bolao.service;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.util.ArrayList;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -33,6 +35,7 @@ public class JogadorService {
 	@Autowired
 	private TimeRepository timeRepository;
 	
+	@SuppressWarnings("deprecation")
 	@RequestMapping(value = "/preenche", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
 	public @ResponseBody ResponseModel preencher() {
 		Gson gson = new Gson();
@@ -71,4 +74,13 @@ public class JogadorService {
 			return new ResponseModel(0, e.toString());
 		}
 	}
+	
+	@SuppressWarnings("deprecation")
+	@RequestMapping(value = "/jogadoresPorPosicaoTime/{siglaTime}/{siglaPosicao}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
+	public @ResponseBody ArrayList<JogadorEntity> buscar(@PathVariable("siglaTime") String siglaTime,
+			@PathVariable("siglaPosicao") String siglaPosicao) {
+
+		return this.jogadorRepository.findJogadorBySiglaNomeTime(siglaPosicao, siglaTime);
+	}
+
 }

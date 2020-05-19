@@ -25,7 +25,7 @@ public class EstadioService {
 	
 	@Autowired
 	private EstadioRepository estadioRepository;
-	
+	@SuppressWarnings("deprecation")
 	@RequestMapping(value = "/preenche", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
 	public ResponseModel preenche() {
 		Gson gson = new Gson();
