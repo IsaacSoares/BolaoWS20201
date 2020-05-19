@@ -1,35 +1,35 @@
 {
    "estadios":[
       {
-         "nome":"",
+         "nome":"Estádio Jornalista Mário Filho",
          "nome_popular":"Maracanã",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":78838
       },
       {
-         "nome":"",
+         "nome":"Estádio Manuel Francisco dos Santos",
          "nome_popular":"Mané Garrincha",
          "local":"Brasília",
          "uf":"DF",
          "capacidade":72788
       },
       {
-         "nome":"",
+         "nome":"Estádio Cícero Pompeu de Toledo",
          "nome_popular":"Morumbi",
          "local":"São Paulo",
          "uf":"SP",
          "capacidade":72039
       },
       {
-         "nome":"",
+         "nome":"Estádio Governador Plácido Castelo",
          "nome_popular":"Castelão",
          "local":"Fortaleza",
          "uf":"CE",
          "capacidade":63903
       },
       {
-         "nome":"",
+         "nome":"Estádio Governador Magalhães Pinto",
          "nome_popular":"Mineirão",
          "local":"Belo Horizonte",
          "uf":"MG",
@@ -71,35 +71,35 @@
          "capacidade":50128
       },
       {
-         "nome":"",
+         "nome":"Complexo Esportivo Cultural Octávio Mangabeira",
          "nome_popular":"Arena Fonte Nova",
          "local":"Salvador",
          "uf":"BA",
          "capacidade":47907
       },
       {
-         "nome":"",
+         "nome":"Estádio Paulo Constantino",
          "nome_popular":"Prudentão",
          "local":"Presidente Prudente",
          "uf":"SP",
          "capacidade":45954
       },
       {
-         "nome":"",
+         "nome":"Estádio Estadual Jornalista Edgar Proença",
          "nome_popular":"Mangueirão",
          "local":"Belém",
          "uf":"PA",
          "capacidade":45007
       },
       {
-         "nome":"",
+         "nome":"Itaquerão",
          "nome_popular":"Arena Corinthians",
          "local":"São Paulo",
          "uf":"SP",
          "capacidade":45000
       },
       {
-         "nome":"",
+         "nome":"Estádio Olímpico João Havelange",
          "nome_popular":"Nilton Santos",
          "local":"Rio de Janeiro",
          "uf":"RJ",
