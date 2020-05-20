@@ -1,35 +1,35 @@
 {
    "estadios":[
       {
-         "nome":"",
+         "nome":"Estádio Jornalista Mário Filho",
          "nome_popular":"Maracanã",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":78838
       },
       {
-         "nome":"",
+         "nome":"Estádio Nacional de Brasília Mané Garrincha",
          "nome_popular":"Mané Garrincha",
          "local":"Brasília",
          "uf":"DF",
          "capacidade":72788
       },
       {
-         "nome":"",
+         "nome":"Estádio Cícero Pompeu de Toledo",
          "nome_popular":"Morumbi",
          "local":"São Paulo",
          "uf":"SP",
          "capacidade":72039
       },
       {
-         "nome":"",
+         "nome":"Estádio Governador Plácido Castelo",
          "nome_popular":"Castelão",
          "local":"Fortaleza",
          "uf":"CE",
          "capacidade":63903
       },
       {
-         "nome":"",
+         "nome":"Estádio Governador Magalhães Pinto",
          "nome_popular":"Mineirão",
          "local":"Belo Horizonte",
          "uf":"MG",
