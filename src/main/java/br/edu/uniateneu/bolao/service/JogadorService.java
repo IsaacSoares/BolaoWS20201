@@ -4,10 +4,14 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.util.ArrayList;
+import java.util.List;
+
+import javax.ws.rs.Consumes;
+import javax.ws.rs.Produces;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -34,9 +38,10 @@ public class JogadorService {
 	private PosicaoRepository posicaoRepository;
 	@Autowired
 	private TimeRepository timeRepository;
-	
-	@SuppressWarnings("deprecation")
-	@RequestMapping(value = "/preenche", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
+
+
+	@Produces("application/json")
+	@RequestMapping(value = "/preenche", method = RequestMethod.GET)
 	public @ResponseBody ResponseModel preencher() {
 		Gson gson = new Gson();
 		try {
@@ -46,41 +51,104 @@ public class JogadorService {
 			String jsonTxt = "";
 			String linha = "";
 			while ((linha = br.readLine()) != null) {
-				jsonTxt+=linha;
+				jsonTxt += linha;
 			}
 			br.close();
 
-			Atletas atletas = null; 
-			atletas = gson.fromJson(jsonTxt, Atletas.class); 
+			Atletas atletas = null;
+			atletas = gson.fromJson(jsonTxt, Atletas.class);
 
 			for (Object object : atletas.getAtletas()) {
 				Jogador jogador = (Jogador) object;
 				System.out.println(jogador.getPosicao());
-				
+
 				JogadorEntity jogadorEntity = null;
 				jogadorEntity = jogador.converteJogadorParaEntidade();
 				jogadorEntity.setPosicao(posicaoRepository.findPosicaoByCdGlobo(jogador.getPosicao()));
 				jogadorEntity.setTime(timeRepository.findTimeByCdGlobo(jogador.getClube_id()));
-			
+
 				jogadorRepository.save(jogadorEntity);
-				
+
 			}
-			
+
 			return new ResponseModel(1, "Registro salvo com sucesso!");
-		
-			
+
 		} catch (Exception e) {
 			e.printStackTrace();
 			return new ResponseModel(0, e.toString());
 		}
 	}
-	
-	@SuppressWarnings("deprecation")
-	@RequestMapping(value = "/jogadoresPorPosicaoTime/{siglaTime}/{siglaPosicao}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
+
+	@Produces("application/json")
+	@RequestMapping(value = "/jogadoresPorPosicaoTime/{siglaTime}/{siglaPosicao}", method = RequestMethod.GET)
 	public @ResponseBody ArrayList<JogadorEntity> buscar(@PathVariable("siglaTime") String siglaTime,
 			@PathVariable("siglaPosicao") String siglaPosicao) {
 
 		return this.jogadorRepository.findJogadorBySiglaNomeTime(siglaPosicao, siglaTime);
+	}
+
+	@Consumes("application/json")
+	@Produces("application/json")
+	@RequestMapping(value = "/jogador", method = RequestMethod.POST)
+	public @ResponseBody ResponseModel salvar(@RequestBody JogadorEntity jogador) {
+
+		try {
+
+			this.jogadorRepository.save(jogador);
+
+			return new ResponseModel(1, "Registro salvo com sucesso!");
+
+		} catch (Exception e) {
+
+			return new ResponseModel(0, e.getMessage());
+		}
+	}
+
+	@Consumes("application/json")
+	@RequestMapping(value = "/jogador", method = RequestMethod.PUT)
+	public @ResponseBody ResponseModel atualizar(@RequestBody JogadorEntity jogador) {
+
+		try {
+
+			this.jogadorRepository.save(jogador);
+
+			return new ResponseModel(1, "Registro atualizado com sucesso!");
+
+		} catch (Exception e) {
+
+			return new ResponseModel(0, e.getMessage());
+		}
+	}
+
+	@Produces("application/json")
+	@RequestMapping(value = "/jogador", method = RequestMethod.GET)
+	public @ResponseBody List<JogadorEntity> consultar() {
+
+		return this.jogadorRepository.findAll();
+	}
+
+	@Produces("application/json")
+	@RequestMapping(value = "/jogador/{codigo}", method = RequestMethod.GET)
+	public @ResponseBody JogadorEntity buscar(@PathVariable("codigo") Long codigo) {
+
+		return this.jogadorRepository.getOne(codigo);
+	}
+
+	@Produces("application/json")
+	@RequestMapping(value = "/jogador/{codigo}", method = RequestMethod.DELETE)
+	public @ResponseBody ResponseModel excluir(@PathVariable("codigo") Long codigo) {
+
+		JogadorEntity jogadorEntity = jogadorRepository.getOne(codigo);
+
+		try {
+
+			jogadorRepository.delete(jogadorEntity);
+
+			return new ResponseModel(1, "Registro excluido com sucesso!");
+
+		} catch (Exception e) {
+			return new ResponseModel(0, e.getMessage());
+		}
 	}
 
 }
