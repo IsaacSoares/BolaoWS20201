@@ -21,7 +21,7 @@ public class HibernateUtil {
 	}
 	
 	public static void main(String[] args) {
-		EntityManagerFactory em = getEntityManagerFactory();
+		//EntityManagerFactory em = getEntityManagerFactory();
 		//em.close();
 	}
 

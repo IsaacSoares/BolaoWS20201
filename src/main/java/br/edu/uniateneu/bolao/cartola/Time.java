@@ -1,7 +1,5 @@
 package br.edu.uniateneu.bolao.cartola;
 
-import java.util.List;
-
 import br.edu.uniateneu.bolao.model.TimeEntity;
 
 public class Time {

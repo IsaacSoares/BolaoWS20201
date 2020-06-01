@@ -5,8 +5,9 @@ import java.io.File;
 import java.io.FileReader;
 import java.util.List;
 
+import javax.ws.rs.Produces;
+
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -27,8 +28,8 @@ public class TimeService {
 
 	@Autowired
 	private TimeRepository timeRepository;
-	
-	@RequestMapping(value = "/preenche", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
+	@Produces("application/json")
+	@RequestMapping(value = "/preenche", method = RequestMethod.GET)
 	public @ResponseBody ResponseModel preenche() {
 		Gson gson = new Gson();
 		try {
@@ -61,8 +62,8 @@ public class TimeService {
 			return new ResponseModel(0, e.getMessage());
 		}
 	}
-		
-	@RequestMapping(value = "/preencher", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
+	@Produces("application/json")
+	@RequestMapping(value = "/preencher", method = RequestMethod.GET)
 	public @ResponseBody ResponseModel preencher() {
 		try {
 			TimeEntity athleticoPR = new TimeEntity();
@@ -265,8 +266,8 @@ public class TimeService {
 		}
 	}
 	
-	
-	@RequestMapping(value = "/todos", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
+	@Produces("application/json")
+	@RequestMapping(value = "/todos", method = RequestMethod.GET)
 	public @ResponseBody List<TimeEntity> consultar() {
 		return this.timeRepository.findAll();
 	}

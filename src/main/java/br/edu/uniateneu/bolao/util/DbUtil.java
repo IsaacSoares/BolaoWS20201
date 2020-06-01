@@ -1,20 +1,5 @@
 package br.edu.uniateneu.bolao.util;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-
-import org.springframework.beans.factory.annotation.Autowired;
-
-import br.edu.uniateneu.bolao.model.JogadorEntity;
-import br.edu.uniateneu.bolao.model.PartidaEntity;
-import br.edu.uniateneu.bolao.model.PosicaoEntity;
-import br.edu.uniateneu.bolao.model.RodadaEntity;
-import br.edu.uniateneu.bolao.model.TimeEntity;
-import br.edu.uniateneu.bolao.repository.JogadorRepository;
-import br.edu.uniateneu.bolao.repository.RodadaRepository;
-import br.edu.uniateneu.bolao.repository.TimeRepository;
-
 public class DbUtil {
 /*	@Autowired
 	private static TimeRepository timeDAO;
