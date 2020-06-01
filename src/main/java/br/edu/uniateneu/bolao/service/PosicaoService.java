@@ -1,7 +1,14 @@
 package br.edu.uniateneu.bolao.service;
 
+import java.util.List;
+
+import javax.ws.rs.Consumes;
+import javax.ws.rs.Produces;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -62,5 +69,71 @@ public class PosicaoService {
 
 
 	}
+
+
+	@Consumes("application/json")
+	@Produces("application/json")
+	@RequestMapping(value = "/posicao", method = RequestMethod.POST)
+	public @ResponseBody ResponseModel salvar(@RequestBody PosicaoEntity posicao) {
+
+		try {
+
+			this.posicaoRepository.save(posicao);
+
+			return new ResponseModel(1, "Registro salvo com sucesso!");
+
+		} catch (Exception e) {
+
+			return new ResponseModel(0, e.getMessage());
+		}
+	}
+
+	@Consumes("application/json")
+	@RequestMapping(value = "/posicao", method = RequestMethod.PUT)
+	public @ResponseBody ResponseModel atualizar(@RequestBody PosicaoEntity posicao) {
+
+		try {
+
+			this.posicaoRepository.save(posicao);
+
+			return new ResponseModel(1, "Registro atualizado com sucesso!");
+
+		} catch (Exception e) {
+
+			return new ResponseModel(0, e.getMessage());
+		}
+	}
+
+	@Produces("application/json")
+	@RequestMapping(value = "/posicao", method = RequestMethod.GET)
+	public @ResponseBody List<PosicaoEntity> consultar() {
+
+		return this.posicaoRepository.findAll();
+	}
+
+	@Produces("application/json")
+	@RequestMapping(value = "/posicao/{codigo}", method = RequestMethod.GET)
+	public @ResponseBody PosicaoEntity buscar(@PathVariable("codigo") Long codigo) {
+
+		return this.posicaoRepository.getOne(codigo);
+	}
+
+	@Produces("application/json")
+	@RequestMapping(value = "/posicao/{codigo}", method = RequestMethod.DELETE)
+	public @ResponseBody ResponseModel excluir(@PathVariable("codigo") Long codigo) {
+
+		PosicaoEntity posicaoEntity = posicaoRepository.getOne(codigo);
+
+		try {
+
+			posicaoRepository.delete(posicaoEntity);
+
+			return new ResponseModel(1, "Registro excluido com sucesso!");
+
+		} catch (Exception e) {
+			return new ResponseModel(0, e.getMessage());
+		}
+	}
+
 
 }
