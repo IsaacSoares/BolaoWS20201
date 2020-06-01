@@ -4,8 +4,9 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 
+import javax.ws.rs.Produces;
+
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -34,8 +35,8 @@ public class RodadaService {
 	@Autowired
 	private PartidaRepository partidaRepository;
 	
-
-	@RequestMapping(value = "/preenche", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
+	@Produces("application/json")
+	@RequestMapping(value = "/preenche", method = RequestMethod.GET)
 	public @ResponseBody ResponseModel preencher() {
 		
 		for (int i = 1; i < 39; i++) {

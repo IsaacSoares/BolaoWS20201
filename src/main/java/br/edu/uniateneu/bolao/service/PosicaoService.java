@@ -6,7 +6,6 @@ import javax.ws.rs.Consumes;
 import javax.ws.rs.Produces;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -25,8 +24,8 @@ public class PosicaoService {
 	@Autowired
 	private PosicaoRepository posicaoRepository;
 
-
-	@RequestMapping(value = "/preenche", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
+	@Produces("application/json")
+	@RequestMapping(value = "/preenche", method = RequestMethod.GET)
 	public @ResponseBody ResponseModel preencher() {
 		try {
 			PosicaoEntity p1 = new PosicaoEntity();
