@@ -71,35 +71,35 @@
          "capacidade":50128
       },
       {
-         "nome":"",
+         "nome":"Complexo Esportivo Cultural Octávio Mangabeira",
          "nome_popular":"Arena Fonte Nova",
          "local":"Salvador",
          "uf":"BA",
          "capacidade":47907
       },
       {
-         "nome":"",
+         "nome":"Estádio Paulo Constantino",
          "nome_popular":"Prudentão",
          "local":"Presidente Prudente",
          "uf":"SP",
          "capacidade":45954
       },
       {
-         "nome":"",
+         "nome":"Estádio Estadual Jornalista Edgar Proença",
          "nome_popular":"Mangueirão",
          "local":"Belém",
          "uf":"PA",
          "capacidade":45007
       },
       {
-         "nome":"",
+         "nome":"Itaquerão",
          "nome_popular":"Arena Corinthians",
          "local":"São Paulo",
          "uf":"SP",
          "capacidade":45000
       },
       {
-         "nome":"",
+         "nome":"Estádio Olímpico João Havelange",
          "nome_popular":"Nilton Santos",
          "local":"Rio de Janeiro",
          "uf":"RJ",
@@ -176,105 +176,105 @@
          "capacidade":34535
       },
       {
-         "nome":"",
+         "nome":"Estádio Adelmar da Costa Carvalho",
          "nome_popular":"Ilha do Retiro",
          "local":"Recife",
          "uf":"PE",
          "capacidade":32983
       },
       {
-         "nome":"",
+         "nome":"Estádio Benedito Teixeira",
          "nome_popular":"Teixeirão",
          "local":"São José do Rio Preto",
          "uf":"SP",
          "capacidade":32168
       },
       {
-         "nome":"",
+         "nome":"Estádio Metropolitano Governador Roberto Santos",
          "nome_popular":"Pituaçu",
          "local":"Salvador",
          "uf":"BA",
          "capacidade":32157
       },
       {
-         "nome":"",
+         "nome":"Arena das Dunas",
          "nome_popular":"Arena das Dunas",
          "local":"Natal",
          "uf":"RN",
          "capacidade":32050
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Radialista Mário Helênio",
          "nome_popular":"Helenão",
          "local":"Juiz de Fora",
          "uf":"MG",
          "capacidade":31863
       },
       {
-         "nome":"",
+         "nome":"Arena Barueri",
          "nome_popular":"Arena Barueri",
          "local":"Barueri",
          "uf":"SP",
          "capacidade":31452
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Jacy Scaff",
          "nome_popular":"Estádio do Café",
          "local":"Londrina",
          "uf":"PR",
          "capacidade":30000
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Fredis Saldivar",
          "nome_popular":"Douradão",
          "local":"Dourados",
          "uf":"MS",
          "capacidade":30000
       },
       {
-         "nome":"",
+         "nome":"Arena Eurobike",
          "nome_popular":"Santa Cruz",
          "local":"Ribeirão Preto",
          "uf":"SP",
          "capacidade":29292
       },
       {
-         "nome":"",
+         "nome":"Estádio Brinco de Ouro da Princesa",
          "nome_popular":"Brinco de Ouro",
          "local":"Campinas",
          "uf":"SP",
          "capacidade":29130
       },
       {
-         "nome":"",
-         "nome_popular":"Boca do Jacaré",
+         "nome":"Estádio Elmo Serejo Farias",
+         "nome_popular":"Serejão ou Boca do Jacaré",
          "local":"Taguatinga",
          "uf":"DF",
          "capacidade":27000
       },
       {
-         "nome":"",
-         "nome_popular":"Irmão Gino Maria Rossi",
+         "nome":"Estádio Municipal Irmão Gino Maria Rossi",
+         "nome_popular":"Manduzão",
          "local":"Pouso Alegre",
          "uf":"MG",
          "capacidade":26000
       },
       {
-         "nome":"",
+         "nome":"Estádio José Américo de Almeida Filho",
          "nome_popular":"Almeidão",
          "local":"João Pessoa",
          "uf":"PB",
          "capacidade":25770
       },
       {
-         "nome":"",
+         "nome":"Estádio Governador Ernani Sátyro",
          "nome_popular":"Amigão",
          "local":"Campina Grande",
          "uf":"PB",
          "capacidade":25770
       },
       {
-         "nome":"",
+         "nome":"Estádio Olímpico Regional Arnaldo Busatto",
          "nome_popular":"Regional Arnaldo Busatto",
          "local":"Cascavel",
          "uf":"PR",
@@ -316,36 +316,36 @@
          "capacidade":22000
       },
       {
-         "nome":"",
+         "nome":"Estádio Vasco da Gama",
          "nome_popular":"São Januário",
          "local":"Rio de Janeiro",
          "uf":"RJ",
          "capacidade":21880
       },
       {
-         "nome":"",
+         "nome":"Estádio do Canindé",
          "nome_popular":"Canindé",
          "local":"São Paulo",
          "uf":"SP",
          "capacidade":21004
       },
       {
-         "nome":"",
+         "nome":"Estádio Estadual Kleber José de Andrade",
          "nome_popular":"Kleber Andrade",
          "local":"Cariacica",
          "uf":"ES",
          "capacidade":21000
       },
       {
-         "nome":"",
+         "nome":"Estádio Valmir Campelo Bezerra",
          "nome_popular":"Bezerrão",
          "local":"Gama",
          "uf":"DF",
          "capacidade":20310
       },
       {
-         "nome":"",
-         "nome_popular":"Presidente Vargas",
+         "nome":"Estádio Presidente Vargas",
+         "nome_popular":"PV",
          "local":"Fortaleza",
          "uf":"CE",
          "capacidade":20262
@@ -386,35 +386,35 @@
          "capacidade":19924
       },
       {
-         "nome":"",
-         "nome_popular":"Heriberto Hülse",
+         "nome":"Estádio Heriberto Hülse",
+         "nome_popular":"Majestoso",
          "local":"Criciúma",
          "uf":"SC",
          "capacidade":19900
       },
       {
-         "nome":"",
+         "nome":"Estádio Romildo Vitor Gomes Ferreira e Papa João Paulo II",
          "nome_popular":"Vail Chaves",
          "local":"Mogi Mirim",
          "uf":"SP",
          "capacidade":19900
       },
       {
-         "nome":"",
+         "nome":"Estádio Orlando Scarpelli",
          "nome_popular":"Orlando Scarpelli",
          "local":"Florianópolis",
          "uf":"SC",
          "capacidade":19584
       },
       {
-         "nome":"",
+         "nome":"Estádio Luiz José de Lacerda",
          "nome_popular":"Lacerdão",
          "local":"Caruaru",
          "uf":"PE",
          "capacidade":19478
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Doutor Novelli Junior",
          "nome_popular":"Novelli Júnior",
          "local":"Itu",
          "uf":"SP",
@@ -456,105 +456,105 @@
          "capacidade":18000
       },
       {
-         "nome":"",
-         "nome_popular":"Luthero Lopes",
+         "nome":"Estádio Engenheiro Luthero Lopes",
+         "nome_popular":"Caldeirão",
          "local":"Rondonópolis",
          "uf":"MT",
          "capacidade":18000
       },
       {
-         "nome":"",
+         "nome":"Estádio Aderbal Ramos da Silva",
          "nome_popular":"Ressacada",
          "local":"Florianópolis",
          "uf":"SC",
          "capacidade":17826
       },
       {
-         "nome":"",
+         "nome":"Estádio Moisés Lucarelli",
          "nome_popular":"Moisés Lucarelli",
          "local":"Campinas",
          "uf":"SP",
          "capacidade":17728
       },
       {
-         "nome":"",
+         "nome":"Estádio Durival Britto e Silva",
          "nome_popular":"Vila Capanema",
          "local":"Curitiba",
          "uf":"PR",
          "capacidade":17140
       },
       {
-         "nome":"",
+         "nome":"Estádio Rei Pelé",
          "nome_popular":"Trapichão",
          "local":"Maceió",
          "uf":"AL",
          "capacidade":17126
       },
       {
-         "nome":"",
-         "nome_popular":"Nabi Abi Chedid",
+         "nome":"Estádio Nabi Abi Chedid",
+         "nome_popular":"Nabizão",
          "local":"Bragança Paulista",
          "uf":"SP",
          "capacidade":17022
       },
       {
-         "nome":"",
-         "nome_popular":"Adail Nunes da Silva",
+         "nome":"Estádio Municipal Adail Nunes da Silva",
+         "nome_popular":"Taquarão",
          "local":"Taquaritinga",
          "uf":"SP",
          "capacidade":16805
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Anacleto Campanella",
          "nome_popular":"Anacleto Campanella",
          "local":"São Caetano do Sul",
          "uf":"SP",
          "capacidade":16744
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Doutor Mário Martins Pereira",
          "nome_popular":"Martins Pereira",
          "local":"São José dos Campos",
          "uf":"SP",
          "capacidade":16500
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Silvio Salles",
          "nome_popular":"Silvio Salles",
          "local":"Catanduva",
          "uf":"SP",
          "capacidade":16444
       },
       {
-         "nome":"",
+         "nome":"Estádio Dr. Alfredo de Castilho",
          "nome_popular":"Alfredão",
          "local":"Bauru",
          "uf":"SP",
          "capacidade":16300
       },
       {
-         "nome":"",
-         "nome_popular":"Décio Vitta",
+         "nome":"Estádio Décio Vitta",
+         "nome_popular":"Riobrancão",
          "local":"Americana",
          "uf":"SP",
          "capacidade":16300
       },
       {
-         "nome":"",
+         "nome":"Estádio Alberto Oliveira",
          "nome_popular":"Jóia da Princesa",
          "local":"Feira de Santana",
          "uf":"BA",
          "capacidade":16274
       },
       {
-         "nome":"",
+         "nome":"Estádio Regional Willie Davids",
          "nome_popular":"Willie Davids",
          "local":"Maringá",
          "uf":"PR",
          "capacidade":16226
       },
       {
-         "nome":"",
+         "nome":" Estádio Leônidas Sodré de Castro",
          "nome_popular":"Curuzu",
          "local":"Belém",
          "uf":"PA",
@@ -596,77 +596,77 @@
          "capacidade":15586
       },
       {
-         "nome":"",
+         "nome":"Estádio Boca do Lobo",
          "nome_popular":"Boca do Lobo",
          "local":"Pelotas",
          "uf":"RS",
          "capacidade":15478
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Prefeito Dilzon Luiz de Melo",
          "nome_popular":"Melão",
          "local":"Varginha",
          "uf":"MG",
          "capacidade":15471
       },
       {
-         "nome":"",
+         "nome":" Estádio Municipal Gilberto Siqueira Lopes",
          "nome_popular":"Gilbertão",
          "local":"Lins",
          "uf":"SP",
          "capacidade":15064
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Bento de Abreu Sampaio Vidal",
          "nome_popular":"Bento de Abreu",
          "local":"Marília",
          "uf":"SP",
          "capacidade":15010
       },
       {
-         "nome":"",
-         "nome_popular":"Alfredo Chiavegato",
+         "nome":"Estádio Municipal Alfredo Chiavegato",
+         "nome_popular":"Campo do Valmont ou Campo do Nassif",
          "local":"Jaguariúna",
          "uf":"SP",
          "capacidade":15000
       },
       {
-         "nome":"",
+         "nome":"Estádio Arapucão",
          "nome_popular":"Arapucão",
          "local":"Jataí",
          "uf":"GO",
          "capacidade":15000
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Carlos Affini ",
          "nome_popular":"Carlos Affini",
          "local":"Paraguaçu Paulista",
          "uf":"SP",
          "capacidade":15000
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Coaracy da Mata Fonseca",
          "nome_popular":"Fumeirão",
          "local":"Arapiraca",
          "uf":"AL",
          "capacidade":15000
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Juscelino Kubitschek de Oliveira",
          "nome_popular":"JK",
          "local":"Itumbiara",
          "uf":"GO",
          "capacidade":15000
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal José Maria de Campos Maia",
          "nome_popular":"José Maria Campos Maia",
          "local":"Mirassol",
          "uf":"SP",
          "capacidade":15000
       },
       {
-         "nome":"",
+         "nome":"Estádio Cláudio Moacyr de Azevedo",
          "nome_popular":"Moacyrzão",
          "local":"Macaé",
          "uf":"RJ",
@@ -680,21 +680,21 @@
          "capacidade":15000
       },
       {
-         "nome":"",
+         "nome":"Estádio Vermelhão da Serra",
          "nome_popular":"Vermelhão da Serra",
          "local":"Passo Fundo",
          "uf":"RS",
          "capacidade":15000
       },
       {
-         "nome":"",
+         "nome":"Estádio Antonio Lins Ribeiro Guimarães",
          "nome_popular":"Antonio Lins Ribeiro Guimarães",
          "local":"Santa Bárbara d'Oeste",
          "uf":"SP",
          "capacidade":14913
       },
       {
-         "nome":"",
+         "nome":"Estádio Maria Lamas Farache",
          "nome_popular":"Frasqueirão",
          "local":"Natal",
          "uf":"RN",
@@ -771,36 +771,36 @@
          "capacidade":13440
       },
       {
-         "nome":"",
+         "nome":"Estádio Otacília Patrício Arroyo",
          "nome_popular":"Otacília Patrício Arroyo",
          "local":"Monte Azul Paulista",
          "uf":"SP",
          "capacidade":13100
       },
       {
-         "nome":"",
+         "nome":"Estádio Antônio Gomes Martins",
          "nome_popular":"Fortaleza",
          "local":"Barretos",
          "uf":"SP",
          "capacidade":13007
       },
       {
-         "nome":"",
+         "nome":"Estádio Municipal Massami Uriu",
          "nome_popular":"Gigante do Norte",
          "local":"Sinop",
          "uf":"MT",
          "capacidade":13000
       },
       {
-         "nome":"",
+         "nome":"Estádio Dr. Osvaldo Scatena",
          "nome_popular":"Oswaldo Scatena",
          "local":"Batatais",
          "uf":"SP",
          "capacidade":13000
       },
       {
-         "nome":"",
-         "nome_popular":"Zezinho Magalhães",
+         "nome":"Estádio Zezinho Magalhães",
+         "nome_popular":"Jauzão",
          "local":"Jaú",
          "uf":"SP",
          "capacidade":12978

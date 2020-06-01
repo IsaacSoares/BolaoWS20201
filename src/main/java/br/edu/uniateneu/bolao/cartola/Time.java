@@ -1,7 +1,10 @@
 package br.edu.uniateneu.bolao.cartola;
 
+<<<<<<< HEAD
 import java.util.List;
 
+=======
+>>>>>>> branch 'webservice' of git@gitlab.com:arielton_nunes_fate/bolaows20201.git
 import br.edu.uniateneu.bolao.model.TimeEntity;
 
 public class Time {

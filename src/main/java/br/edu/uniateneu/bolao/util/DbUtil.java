@@ -1,5 +1,6 @@
 package br.edu.uniateneu.bolao.util;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -266,4 +267,9 @@ public class DbUtil {
 		DbUtil.preencheEntidadaes();
 	}
 */
+=======
+
+public class DbUtil {
+
+>>>>>>> branch 'webservice' of git@gitlab.com:arielton_nunes_fate/bolaows20201.git
 }
