@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -104,7 +105,7 @@ public class PosicaoService {
 	}
 
 	@Produces("application/json")
-	@RequestMapping(value = "/posicao", method = RequestMethod.GET)
+	@RequestMapping(value = "/listar", method = RequestMethod.GET)
 	public @ResponseBody List<PosicaoEntity> consultar() {
 
 		return this.posicaoRepository.findAll();
@@ -113,10 +114,15 @@ public class PosicaoService {
 	@Produces("application/json")
 	@RequestMapping(value = "/posicao/{codigo}", method = RequestMethod.GET)
 	public @ResponseBody PosicaoEntity buscar(@PathVariable("codigo") Long codigo) {
-
-		return this.posicaoRepository.getOne(codigo);
+		return (PosicaoEntity)(this.posicaoRepository.getOne(codigo));
 	}
-
+	@Produces("application/json")
+	@RequestMapping(value = "/posicao/teste", method = RequestMethod.GET)	@ResponseBody
+	public String getFoos(@RequestParam String cdGlobo) {
+		return " - "+ cdGlobo;
+	}
+	
+	
 	@Produces("application/json")
 	@RequestMapping(value = "/posicao/{codigo}", method = RequestMethod.DELETE)
 	public @ResponseBody ResponseModel excluir(@PathVariable("codigo") Long codigo) {
