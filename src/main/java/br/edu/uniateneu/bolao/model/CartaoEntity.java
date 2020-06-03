@@ -11,8 +11,11 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 @Entity
 @Table(name="tb_cartao")
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 public class CartaoEntity {
 @Id
 @Column(name="cd_cartao")

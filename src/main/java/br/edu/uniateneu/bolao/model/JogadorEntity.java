@@ -15,10 +15,13 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 @Entity
 @Table(name = "tb_jogador")
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
+
 public class JogadorEntity {
 	
 	@Id
