@@ -27,6 +27,7 @@ import br.edu.uniateneu.bolao.repository.JogadorRepository;
 import br.edu.uniateneu.bolao.repository.PosicaoRepository;
 import br.edu.uniateneu.bolao.repository.TimeRepository;
 import br.edu.uniateneu.bolao.util.Constantes;
+import br.edu.uniateneu.bolao.util.StringUtil;
 
 @RestController
 @RequestMapping("/jogadores")
@@ -54,7 +55,7 @@ public class JogadorService {
 				jsonTxt += linha;
 			}
 			br.close();
-
+			jsonTxt = StringUtil.decodificarUTF8(jsonTxt);
 			Atletas atletas = null;
 			atletas = gson.fromJson(jsonTxt, Atletas.class);
 
