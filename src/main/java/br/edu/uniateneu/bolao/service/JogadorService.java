@@ -87,7 +87,27 @@ public class JogadorService {
 
 		return this.jogadorRepository.findJogadorBySiglaNomeTime(siglaPosicao, siglaTime);
 	}
+	
+	@Produces("application/json")
+	@RequestMapping(value = "/jogadoresPorApelido/{apelido}", method = RequestMethod.GET)
+	public @ResponseBody ArrayList<JogadorEntity> buscarPorApelido(@PathVariable("apelido") String apelido) {
+		List<JogadorEntity> jogadores = jogadorRepository.findAll();
+		ArrayList<JogadorEntity> jogadoresEncontrados = new ArrayList<JogadorEntity>();
+		for (JogadorEntity jogadorEntity : jogadores) {
+			if(jogadorEntity.getApelido().toUpperCase().contains(apelido.toUpperCase())) {
+				jogadoresEncontrados.add(jogadorEntity);
+			}
+		}
+		return jogadoresEncontrados;
+	}
 
+	
+	@Produces("application/json")
+	@RequestMapping(value = "/jogadoresPorApelidoBanco/{apelido}", method = RequestMethod.GET)
+	public @ResponseBody ArrayList<JogadorEntity> buscarPorApelidoBanco(@PathVariable("apelido") String apelido) {
+		return jogadorRepository.findJogadorByApelido(apelido.toUpperCase());
+	}
+	
 	@Consumes("application/json")
 	@Produces("application/json")
 	@RequestMapping(value = "/jogador", method = RequestMethod.POST)
@@ -122,7 +142,7 @@ public class JogadorService {
 	}
 
 	@Produces("application/json")
-	@RequestMapping(value = "/jogador", method = RequestMethod.GET)
+	@RequestMapping(value = "/todos", method = RequestMethod.GET)
 	public @ResponseBody List<JogadorEntity> consultar() {
 
 		return this.jogadorRepository.findAll();

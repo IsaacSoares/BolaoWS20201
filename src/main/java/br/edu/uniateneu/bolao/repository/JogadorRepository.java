@@ -21,4 +21,8 @@ public interface JogadorRepository extends JpaRepository<JogadorEntity, Long> {
 	public ArrayList<JogadorEntity> findJogadorBySiglaNomeTime(@Param("nmSiglaPosicao") String nmSiglaPosicao,
 			@Param("nmSiglaTime") String nmSiglaTime);
 
+	@Query(value = "select * from tb_jogador "
+			+ "where UPPER(nm_apelido) like %:apelido%", nativeQuery = true)
+	public ArrayList<JogadorEntity> findJogadorByApelido (@Param("apelido") String apelido);
+	
 }

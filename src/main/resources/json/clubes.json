@@ -23,14 +23,14 @@
    },
    {  
       "id":1371,
-      "nome":"Cuiabá",
+      "nome":"CuiabÃ¡",
       "abreviacao":"CUI",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"Cuiabá"
+      "nome_fantasia":"CuiabÃ¡"
    },
    {  
       "id":1390,
@@ -78,14 +78,14 @@
    },
    {  
       "id":2554,
-      "nome":"Grêmio Prudente",
+      "nome":"GrÃªmio Prudente",
       "abreviacao":"PRU",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"Grêmio Prudente"
+      "nome_fantasia":"GrÃªmio Prudente"
    },
    {  
       "id":2565,
@@ -184,7 +184,7 @@
    },
    {  
       "id":276,
-      "nome":"São Paulo",
+      "nome":"SÃ£o Paulo",
       "abreviacao":"SAO",
       "posicao":5,
       "escudos":{  
@@ -192,7 +192,7 @@
          "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_45x45.png",
          "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_30x30.png"
       },
-      "nome_fantasia":"São Paulo"
+      "nome_fantasia":"SÃ£o Paulo"
    },
    {  
       "id":277,
@@ -241,7 +241,7 @@
    },
    {  
       "id":282,
-      "nome":"Atlético-MG",
+      "nome":"AtlÃ©tico-MG",
       "abreviacao":"ATL",
       "posicao":12,
       "escudos":{  
@@ -249,7 +249,7 @@
          "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo45px.png",
          "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo30px.png"
       },
-      "nome_fantasia":"Atlético-MG"
+      "nome_fantasia":"AtlÃ©tico-MG"
    },
    {  
       "id":283,
@@ -265,7 +265,7 @@
    },
    {  
       "id":284,
-      "nome":"Grêmio",
+      "nome":"GrÃªmio",
       "abreviacao":"GRE",
       "posicao":4,
       "escudos":{  
@@ -273,7 +273,7 @@
          "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_45x45.png",
          "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_30x30.png"
       },
-      "nome_fantasia":"Grêmio"
+      "nome_fantasia":"GrÃªmio"
    },
    {  
       "id":285,
@@ -300,40 +300,40 @@
    },
    {  
       "id":287,
-      "nome":"Vitória",
+      "nome":"VitÃ³ria",
       "abreviacao":"VIT",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"Vitória"
+      "nome_fantasia":"VitÃ³ria"
    },
    {  
       "id":288,
-      "nome":"Criciúma",
+      "nome":"CriciÃºma",
       "abreviacao":"CRI",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"Criciúma"
+      "nome_fantasia":"CriciÃºma"
    },
    {  
       "id":289,
-      "nome":"Paraná",
+      "nome":"ParanÃ¡",
       "abreviacao":"PAR",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"Paraná"
+      "nome_fantasia":"ParanÃ¡"
    },
    {  
       "id":290,
-      "nome":"Goiás",
+      "nome":"GoiÃ¡s",
       "abreviacao":"GOI",
       "posicao":10,
       "escudos":{  
@@ -341,7 +341,7 @@
          "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_45px.png",
          "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_30px.png"
       },
-      "nome_fantasia":"Goiás"
+      "nome_fantasia":"GoiÃ¡s"
    },
    {  
       "id":291,
@@ -367,7 +367,7 @@
    },
    {  
       "id":293,
-      "nome":"Athlético-PR",
+      "nome":"AthlÃ©tico-PR",
       "abreviacao":"ATL",
       "posicao":6,
       "escudos":{  
@@ -375,7 +375,7 @@
          "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-45x45.png",
          "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-30x30.png"
       },
-      "nome_fantasia":"Athlético-PR"
+      "nome_fantasia":"AthlÃ©tico-PR"
    },
    {  
       "id":294,
@@ -423,25 +423,25 @@
    },
    {  
       "id":306,
-      "nome":"Santo André",
+      "nome":"Santo AndrÃ©",
       "abreviacao":"SAN",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"Santo André"
+      "nome_fantasia":"Santo AndrÃ©"
    },
    {  
       "id":307,
-      "nome":"São Bento",
+      "nome":"SÃ£o Bento",
       "abreviacao":"SBE",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"São Bento"
+      "nome_fantasia":"SÃ£o Bento"
    },
    {  
       "id":309,
@@ -456,7 +456,7 @@
    },
    {  
       "id":314,
-      "nome":"Avaí",
+      "nome":"AvaÃ­",
       "abreviacao":"AVA",
       "posicao":20,
       "escudos":{  
@@ -464,7 +464,7 @@
          "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-45x45.png",
          "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-30x30.png"
       },
-      "nome_fantasia":"Avaí"
+      "nome_fantasia":"AvaÃ­"
    },
    {  
       "id":315,
@@ -513,25 +513,25 @@
    },
    {  
       "id":321,
-      "nome":"Operário-PR",
+      "nome":"OperÃ¡rio-PR",
       "abreviacao":"OPE",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"Operário-PR"
+      "nome_fantasia":"OperÃ¡rio-PR"
    },
    {  
       "id":327,
-      "nome":"América-MG",
+      "nome":"AmÃ©rica-MG",
       "abreviacao":"AME",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"América-MG"
+      "nome_fantasia":"AmÃ©rica-MG"
    },
    {  
       "id":340,
@@ -569,14 +569,14 @@
    },
    {  
       "id":343,
-      "nome":"Náutico",
+      "nome":"NÃ¡utico",
       "abreviacao":"NAU",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"Náutico"
+      "nome_fantasia":"NÃ¡utico"
    },
    {  
       "id":344,
@@ -602,18 +602,18 @@
    },
    {  
       "id":351,
-      "nome":"América-RN",
+      "nome":"AmÃ©rica-RN",
       "abreviacao":"AME",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"América-RN"
+      "nome_fantasia":"AmÃ©rica-RN"
    },
    {  
       "id":354,
-      "nome":"Ceará",
+      "nome":"CearÃ¡",
       "abreviacao":"CEA",
       "posicao":14,
       "escudos":{  
@@ -621,7 +621,7 @@
          "quarentaECincoPorquarentaECinco":"https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-45x45.png",
          "trintaPorTrinta":"https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-30x30.png"
       },
-      "nome_fantasia":"Ceará"
+      "nome_fantasia":"CearÃ¡"
    },
    {  
       "id":356,
@@ -648,14 +648,14 @@
    },
    {  
       "id":363,
-      "nome":"Sampaio Corrêa",
+      "nome":"Sampaio CorrÃªa",
       "abreviacao":"SAM",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"Sampaio Corrêa"
+      "nome_fantasia":"Sampaio CorrÃªa"
    },
    {  
       "id":364,
@@ -670,14 +670,14 @@
    },
    {  
       "id":373,
-      "nome":"Atlético-GO",
+      "nome":"AtlÃ©tico-GO",
       "abreviacao":"ATL",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"Atlético-GO"
+      "nome_fantasia":"AtlÃ©tico-GO"
    },
    {  
       "id":375,
@@ -692,14 +692,14 @@
    },
    {  
       "id":386,
-      "nome":"São Caetano",
+      "nome":"SÃ£o Caetano",
       "abreviacao":"SAO",
       "escudos":{  
          "sessentaPorSessenta":"",
          "quarentaECincoPorquarentaECinco":"",
          "trintaPorTrinta":""
       },
-      "nome_fantasia":"São Caetano"
+      "nome_fantasia":"SÃ£o Caetano"
    },
    {  
       "id":388,
