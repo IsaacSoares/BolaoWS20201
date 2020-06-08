@@ -39,7 +39,7 @@ public class Json2Java {
 			br.close();
 
 
-			jsonTxt = StringUtil.decodificar(jsonTxt);
+			jsonTxt = StringUtil.decodificarUTF8(jsonTxt);
 			List<Partida> partidasObj;
 			Type usuariosListType = new TypeToken<ArrayList<Partida>>(){}.getType(); 
 			partidasObj = gson.fromJson(jsonTxt, usuariosListType);
