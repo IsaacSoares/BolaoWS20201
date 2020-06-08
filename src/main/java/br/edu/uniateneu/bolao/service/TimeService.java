@@ -20,11 +20,11 @@ import com.google.gson.Gson;
 
 import br.edu.uniateneu.bolao.cartola.Clubes;
 import br.edu.uniateneu.bolao.cartola.Time;
-import br.edu.uniateneu.bolao.model.PosicaoEntity;
 import br.edu.uniateneu.bolao.model.ResponseModel;
 import br.edu.uniateneu.bolao.model.TimeEntity;
 import br.edu.uniateneu.bolao.repository.TimeRepository;
 import br.edu.uniateneu.bolao.util.Constantes;
+import br.edu.uniateneu.bolao.util.StringUtil;
 
 @RestController
 @RequestMapping("/times")
@@ -46,9 +46,9 @@ public class TimeService {
 				jsonTxt+=linha;
 			}
 			br.close();
-
+			
 			Clubes clubes = null; 
-			clubes = gson.fromJson(jsonTxt, Clubes.class); 
+			clubes = gson.fromJson(StringUtil.decodificarUTF8(jsonTxt), Clubes.class); 
 
 			for (Object object : clubes.getClubes()) {
 				Time time = (Time) object;

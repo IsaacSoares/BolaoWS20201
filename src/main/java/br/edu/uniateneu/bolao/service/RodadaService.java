@@ -23,6 +23,7 @@ import br.edu.uniateneu.bolao.repository.PartidaRepository;
 import br.edu.uniateneu.bolao.repository.RodadaRepository;
 import br.edu.uniateneu.bolao.repository.TimeRepository;
 import br.edu.uniateneu.bolao.util.Constantes;
+import br.edu.uniateneu.bolao.util.StringUtil;
 
 @RestController
 @RequestMapping("/rodadas")
@@ -59,7 +60,7 @@ public class RodadaService {
 					jsonTxt += linha;
 				}
 				br.close();
-
+				jsonTxt = StringUtil.decodificarUTF8(jsonTxt);
 			    Rodada rodada = null;
 				rodada = gson.fromJson(jsonTxt, Rodada.class);
 				

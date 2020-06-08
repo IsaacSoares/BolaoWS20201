@@ -9,8 +9,12 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 @Entity
 @Table(name = "tb_rodada")
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
+
 public class RodadaEntity {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)

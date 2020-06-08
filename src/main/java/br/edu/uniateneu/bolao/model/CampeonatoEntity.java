@@ -9,8 +9,11 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 @Entity
 @Table(name = "tb_competicao")
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 public class CampeonatoEntity {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)

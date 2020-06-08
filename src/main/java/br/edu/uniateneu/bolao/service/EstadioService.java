@@ -25,6 +25,7 @@ import br.edu.uniateneu.bolao.model.EstadioEntity;
 import br.edu.uniateneu.bolao.model.ResponseModel;
 import br.edu.uniateneu.bolao.repository.EstadioRepository;
 import br.edu.uniateneu.bolao.util.Constantes;
+import br.edu.uniateneu.bolao.util.StringUtil;
 
 @RestController
 @RequestMapping("/estadios")
@@ -46,7 +47,7 @@ public class EstadioService {
 				jsonTxt+=linha;
 			}
 			br.close();
-
+			jsonTxt = StringUtil.decodificarUTF8(jsonTxt);
 			Estadios estadios = null; 
 			estadios = gson.fromJson(jsonTxt, Estadios.class); 
 

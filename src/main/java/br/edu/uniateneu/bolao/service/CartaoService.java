@@ -1,5 +1,82 @@
 package br.edu.uniateneu.bolao.service;
 
-public class CartaoService {
+import java.util.List;
 
+import javax.ws.rs.Consumes;
+import javax.ws.rs.Produces;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import br.edu.uniateneu.bolao.model.CartaoEntity;
+import br.edu.uniateneu.bolao.model.ResponseModel;
+import br.edu.uniateneu.bolao.repository.CartaoRepository;
+
+@RestController
+@RequestMapping("/cartoes")
+public class CartaoService {
+	@Autowired
+	private CartaoRepository cartaoRepository;
+	
+	@Produces("application/json")
+	@RequestMapping(value = "/todos", method = RequestMethod.GET)
+	public @ResponseBody List<CartaoEntity> consultar() {
+		return this.cartaoRepository.findAll();
+	}
+	
+	@Consumes("application/json")
+	@Produces("application/json")
+	@RequestMapping(value = "/salvar", method = RequestMethod.POST)
+	public @ResponseBody ResponseModel salvar(@RequestBody CartaoEntity cartao) {
+
+		try {
+
+			this.cartaoRepository.save(cartao);
+
+			return new ResponseModel(1, "Registro salvo com sucesso!");
+
+		} catch (Exception e) {
+
+			return new ResponseModel(0, e.getMessage());
+		}
+	}
+	
+	@Produces("application/json")
+	@RequestMapping(value = "/deletar/{codigo}", method = RequestMethod.DELETE)
+	public @ResponseBody ResponseModel excluir(@PathVariable("codigo") Long codigo) {
+
+		CartaoEntity cartaoEntity = cartaoRepository.getOne(codigo);
+
+		try {
+
+			cartaoRepository.delete(cartaoEntity);
+
+			return new ResponseModel(1, "Registro excluido com sucesso!");
+
+		} catch (Exception e) {
+			return new ResponseModel(0, e.getMessage());
+		}
+	}
+	
+	@Consumes("application/json")
+	@Produces("application/json")
+	@RequestMapping(value = "/atualizar", method = RequestMethod.PUT)
+	public @ResponseBody ResponseModel atualizar(@RequestBody CartaoEntity cartao) {
+
+		try {
+
+			this.cartaoRepository.save(cartao);
+
+			return new ResponseModel(1, "Registro atualizado com sucesso!");
+
+		} catch (Exception e) {
+
+			return new ResponseModel(0, e.getMessage());
+		}
+	}
 }
