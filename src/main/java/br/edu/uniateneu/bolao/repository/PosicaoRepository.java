@@ -13,4 +13,6 @@ public interface PosicaoRepository extends JpaRepository<PosicaoEntity, Long> {
 	" from tb_posicao p "
 			+ " where p.cd_globo = (:idglobo)", nativeQuery = true)
 	PosicaoEntity findPosicaoByCdGlobo(@Param("idglobo") Long idglobo);
+	
+	
 }
