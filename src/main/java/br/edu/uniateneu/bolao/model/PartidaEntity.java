@@ -38,7 +38,10 @@ public class PartidaEntity {
 	private Integer placarMandante;
 	@Column(name = "pl_visitante")
 	private Integer placarVisitante;
-
+	@Column(name = "vl_renda")
+	private Double renda;
+	@Column(name = "nm_publico")
+	private Long publico;
 	@OneToOne(cascade = CascadeType.ALL)
 	@JoinColumn(name = "cd_visitante")
 	private TimeEntity visitante;
@@ -186,6 +189,22 @@ public class PartidaEntity {
 
 	public void setPlacarVisitante(Integer placarVisitante) {
 		this.placarVisitante = placarVisitante;
+	}
+
+	public Double getRenda() {
+		return renda;
+	}
+
+	public void setRenda(Double renda) {
+		this.renda = renda;
+	}
+
+	public Long getPublico() {
+		return publico;
+	}
+
+	public void setPublico(Long publico) {
+		this.publico = publico;
 	}
 
 }

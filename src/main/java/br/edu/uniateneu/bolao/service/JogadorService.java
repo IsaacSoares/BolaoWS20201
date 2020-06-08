@@ -125,8 +125,15 @@ public class JogadorService {
 		}
 	}
 
+	/*
+	 * Método utilizado para a função de atualização de um registro no banco de dados
+	 * Recebe como parâmetro um json que representa o objeto a ser atualizado.
+	 * É acessado pela URL http://localhost:8090/jogadores/atualizar utilizando o método HTTP PUT...
+	 * O retorno da requisição é um json da que representa a classe ResponseModel
+	 *
+	 * */	
 	@Consumes("application/json")
-	@RequestMapping(value = "/jogador", method = RequestMethod.PUT)
+	@RequestMapping(value = "/atualizar", method = RequestMethod.PUT)
 	public @ResponseBody ResponseModel atualizar(@RequestBody JogadorEntity jogador) {
 
 		try {
