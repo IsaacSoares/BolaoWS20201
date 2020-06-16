@@ -10,10 +10,13 @@ public class Transmissao {
 		this.label = label;
 	}
 
+<<<<<<< HEAD
+=======
 	public String getUrl() {
 		return url;
 	}
 	public void setUrl(String url) {
 		this.url = url;
 	}
+>>>>>>> branch 'webservice' of git@gitlab.com:arielton_nunes_fate/bolaows20201.git
 }
