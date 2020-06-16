@@ -21,11 +21,8 @@ public class HibernateUtil {
 	}
 	
 	public static void main(String[] args) {
-<<<<<<< HEAD
-		EntityManagerFactory em = getEntityManagerFactory();
-=======
+
 		//EntityManagerFactory em = getEntityManagerFactory();
->>>>>>> branch 'webservice' of git@gitlab.com:arielton_nunes_fate/bolaows20201.git
 		//em.close();
 	}
 
