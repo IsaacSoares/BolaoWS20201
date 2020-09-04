@@ -1,5 +1,6 @@
 package br.edu.uniateneu.bolao.util;
 
+import java.nio.charset.Charset;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -25,6 +26,10 @@ public class StringUtil {
 	}
 	public static void main(String[] args) {
 
+	}
+	public static String decodificarUTF8(String jsonTxt) {
+		// TODO Auto-generated method stub
+		return new String(jsonTxt.getBytes(Charset.forName("UTF-8")), Charset.forName("UTF-8"));
 	}
 
 }
