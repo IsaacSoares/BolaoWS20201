@@ -48,6 +48,10 @@ public class StringUtil {
 
 	}
 
+	/*public static String decodificarUTF8(String jsonTxt) {
+		// TODO Auto-generated method stub
+		return new String(jsonTxt.getBytes(Charset.forName("UTF-8")), Charset.forName("UTF-8"));
+	}*/
 
 }
 
